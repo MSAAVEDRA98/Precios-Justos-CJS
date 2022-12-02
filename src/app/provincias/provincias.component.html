@@ -1,9 +1,12 @@
-<h1>Pagina para seleccionar una provincia</h1>
-
-<select name="" id="" [(ngModel)]="provinciaSeleccionada">
-    <option value="">Seleccione una provincia</option>
-    <option value="" *ngFor="let provincia of provincias" [ngValue]="provincia.nombre">{{provincia.nombre}}</option>
-</select>
-
-<h1>Productos de {{provinciaSeleccionada}}</h1>
-
+<div class="contenedor">
+    <h1>Seleccionar una provincia</h1>
+    <div>
+        <select name="" id="" [(ngModel)]="provinciaSeleccionada">
+            <option value="">Seleccione una provincia</option>
+            <option value="" *ngFor="let provincia of provincias" [ngValue]="provincia">{{provincia.nombre}}</option>
+        </select>
+    </div>
+    <div>
+        <button class="btn btn-primary" style="margin: 10px;" routerLink="/productos" (click)="getNombre(provinciaSeleccionada)">Ir a productos de {{provinciaSeleccionada.nombre}}</button>
+    </div>
+</div>

@@ -17,8 +17,8 @@ import { ProductosListComponent } from './productos-list/productos-list.componen
   ],
   imports: [
     BrowserModule,
-    FormsModule,
     AppRoutingModule,
+    FormsModule,
     HttpClientModule
   ],
   providers: [],

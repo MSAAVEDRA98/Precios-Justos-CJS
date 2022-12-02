@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { subscribeOn } from 'rxjs';
 import { Provincia,ProvinciasService } from '../servicios/provincias.service';
 
@@ -10,17 +11,22 @@ import { Provincia,ProvinciasService } from '../servicios/provincias.service';
 
 export class ProvinciasComponent implements OnInit {
   constructor(private provinciasService: ProvinciasService) {
-    this.provinciasService.getProvincias().subscribe((data:any) => {
-      console.log(data);
+    this.provinciasService.getProvincias().subscribe((data:any) => {    //Obtiene las provincias de un "fetch" en productos.servicios
+      // console.log(data);
 
-      this.provincias = data;
+      this.provincias = data;   //Alamacena la provincia en "provincias"
+
     })
-  
   }
 
-  provincias:Provincia[] = [];
+  provincias:Provincia[] = [];    //Arreglo donde irán las 24 provincias traidas de la API
+  nombreProvincia:string = ''; //Tiene como valor el nombre de la provincia seleccionada
 
-  provinciaSeleccionada: Provincia = {
+  getNombre(nombreProv:Provincia){
+    this.nombreProvincia = nombreProv.nombre;   //Obtiene el valor de la provincia seleccionada en el HTML mediante un evento CLICK
+  }
+
+  provinciaSeleccionada: Provincia = {      //Inicializacion de la interfaz
     nombre:'',
     id:0,
     url:''
