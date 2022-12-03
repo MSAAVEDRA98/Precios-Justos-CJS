@@ -3,10 +3,10 @@
     <div>
         <select name="" id="" [(ngModel)]="provinciaSeleccionada">
             <option value="">Seleccione una provincia</option>
-            <option value="" *ngFor="let provincia of provincias" [ngValue]="provincia">{{provincia.nombre}}</option>
+            <option value="" *ngFor="let provincia of provincias" [ngValue]="provincia" >{{provincia.nombre}}</option>
         </select>
     </div>
     <div>
-        <button class="btn btn-primary" style="margin: 10px;" routerLink="/productos" (click)="getNombre(provinciaSeleccionada)">Ir a productos de {{provinciaSeleccionada.nombre}}</button>
+        <button class="btn btn-primary" style="margin: 10px;" routerLink="/productos" (click)="getNombre(provinciaSeleccionada)" >Ir a productos de {{provinciaSeleccionada.nombre}}</button>
     </div>
 </div>

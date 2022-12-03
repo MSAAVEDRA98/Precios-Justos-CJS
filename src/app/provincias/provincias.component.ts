@@ -1,7 +1,8 @@
-import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { Component, Input, OnInit, Output } from '@angular/core';
+import { Router, ActivatedRoute } from '@angular/router';
 import { subscribeOn } from 'rxjs';
 import { Provincia,ProvinciasService } from '../servicios/provincias.service';
+import { ProductosListComponent } from '../productos-list/productos-list.component';
 
 @Component({
   selector: 'app-provincias',
@@ -10,20 +11,29 @@ import { Provincia,ProvinciasService } from '../servicios/provincias.service';
 })
 
 export class ProvinciasComponent implements OnInit {
-  constructor(private provinciasService: ProvinciasService) {
+  constructor(public provinciasService: ProvinciasService) {
     this.provinciasService.getProvincias().subscribe((data:any) => {    //Obtiene las provincias de un "fetch" en productos.servicios
-      // console.log(data);
 
       this.provincias = data;   //Alamacena la provincia en "provincias"
 
+      // this.log(this.nombreProvincia);
     })
   }
+      nombreProvincia:string = '';
+
+      getNombre(nombreProv:Provincia){
+        this.nombreProvincia = nombreProv.nombre;
+        // this.log(this.nombreProvincia);   //Obtiene el valor de la provincia seleccionada en el HTML mediante un evento CLICK
+      }
+
+      log(msj:any){
+        console.log(msj);
+      }
 
   provincias:Provincia[] = [];    //Arreglo donde irán las 24 provincias traidas de la API
-  nombreProvincia:string = ''; //Tiene como valor el nombre de la provincia seleccionada
 
-  getNombre(nombreProv:Provincia){
-    this.nombreProvincia = nombreProv.nombre;   //Obtiene el valor de la provincia seleccionada en el HTML mediante un evento CLICK
+  setNombre(){
+    return(this.nombreProvincia);
   }
 
   provinciaSeleccionada: Provincia = {      //Inicializacion de la interfaz
@@ -31,6 +41,8 @@ export class ProvinciasComponent implements OnInit {
     id:0,
     url:''
   };
+
+  @Input() mensaje:string = this.provinciaSeleccionada.nombre
 
   ngOnInit(): void {}
 }
