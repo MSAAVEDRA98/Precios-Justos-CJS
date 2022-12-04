@@ -7,6 +7,7 @@
         </select>
     </div>
     <div>
-        <button class="btn btn-primary" style="margin: 10px;" routerLink="/productos" (click)="getNombre(provinciaSeleccionada)" >Ir a productos de {{provinciaSeleccionada.nombre}}</button>
+        <!-- <a routerLink="producto">Ir a productos de {{ provinciaSeleccionada.nombre }}</a> -->
+        <button class="bt btn-primary" routerLink="/producto/{{provinciaSeleccionada.url}}">Ir a productos de {{ provinciaSeleccionada.nombre }}</button>
     </div>
 </div>

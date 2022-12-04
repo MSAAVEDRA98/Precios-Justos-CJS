@@ -1,8 +1,4 @@
-<h1>Productos de {{mensaje}}</h1>
-<div>
-    <button class="btn btn-primary" routerLink="">Seleccionar provincia</button>
-</div>
-<input type="text" placeholder="Buscar producto">
+<h1>Productos de {{ nombreProvincia }}</h1>
 <div *ngFor="let producto of productos" class="card col-sm-3">
     <h5 class="card-title">{{ producto.nombre }}</h5>
     <h6 class="card-subtitle mb-2 text-muted">{{ producto.ean }}</h6>

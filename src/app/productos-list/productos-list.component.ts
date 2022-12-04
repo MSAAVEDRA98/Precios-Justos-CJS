@@ -11,27 +11,27 @@ import { ProvinciasComponent } from '../provincias/provincias.component';
 })
 export class ProductosListComponent implements OnInit {
 
-  productos: Producto[] = []
+  productos: Producto[] = [];
+  nombreProvincia:string = "";
 
-  @Input() mensaje:String = this.provinciasComponent.nombreProvincia;
+constructor(private productoService:ProductosServiceService, private actRouter:ActivatedRoute) {
 
-constructor(private productoService:ProductosServiceService,
-            private provinciasComponent:ProvinciasComponent) {
+  this.nombreProvincia = this.actRouter.snapshot.params["nombreProvincia"];
+  console.log(this.actRouter);
+  console.log(this.nombreProvincia);
 
-  // let provincia:string = this.provinciasComponent.setNombre();
+  let provincia:string = this.nombreProvincia;
 
-  let provincia:string = 'tierra-del-fuego';
+  // let provincia:string = "tierra-del-fuego";
   this.productoService.getProductos(provincia).subscribe((data:any)=>{
     // console.log(data);
     this.productos = data;    //Alamacena en el arreglo "productos" los datos de los productos que hay en la API de la provincia qeu se pasa por parametro en "provincia"
 
-  });
+    
 
-  // console.log(this.mensaje);
+  });
 }
 
-  ngOnInit(): void {
-    // console.log(this.mensaje);
-  }
+  ngOnInit(): void {  }
 
 }
