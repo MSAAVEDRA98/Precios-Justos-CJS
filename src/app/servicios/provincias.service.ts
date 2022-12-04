@@ -16,7 +16,7 @@ export interface Provincia {
 
 export class ProvinciasService {
 
-  constructor(private http: HttpClient){}
+  constructor(private http: HttpClient/* , public provinciasComponent:ProvinciasComponent */){}
 
   getProvincias() {
     return this.http.get('./assets/api/provincias.json').pipe(

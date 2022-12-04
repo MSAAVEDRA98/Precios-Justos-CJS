@@ -1,32 +1,37 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { ProvinciasComponent } from '../provincias/provincias.component';
-// import {  Router } from '@angular/router';
+import {  Router, ActivatedRoute, Route } from '@angular/router';
 import { ProductosServiceService } from '../servicios/productos-service.service';
 import { Producto } from '../servicios/productos-service.service';
+import { ProvinciasComponent } from '../provincias/provincias.component';
 
 @Component({
   selector: 'app-productos-list',
   templateUrl: './productos-list.component.html',
   styleUrls: ['./productos-list.component.css']
 })
-export class ProductosListComponent /* extends ProvinciasComponent */ implements OnInit {
+export class ProductosListComponent implements OnInit {
 
-  productos: Producto[] = []
+  productos: Producto[] = [];
+  nombreProvincia:string = "";
 
-constructor(public productoService:ProductosServiceService,
-            /* public provinciasComponent:ProvinciasComponent */) {
+constructor(private productoService:ProductosServiceService, private actRouter:ActivatedRoute) {
 
-  // super();
+  this.nombreProvincia = this.actRouter.snapshot.params["nombreProvincia"];
+  console.log(this.actRouter);
+  console.log(this.nombreProvincia);
 
-  // let provincia:string = this.provinciasComponent.nombreProvincia;
-  let provincia:string = 'tierra-del-fuego';
+  let provincia:string = this.nombreProvincia;
+
+  // let provincia:string = "tierra-del-fuego";
   this.productoService.getProductos(provincia).subscribe((data:any)=>{
     // console.log(data);
     this.productos = data;    //Alamacena en el arreglo "productos" los datos de los productos que hay en la API de la provincia qeu se pasa por parametro en "provincia"
-});
+
+    
+
+  });
 }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {  }
 
 }

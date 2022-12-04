@@ -8,12 +8,16 @@ import { ProvinciasComponent } from './provincias/provincias.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { ProductosListComponent } from './productos-list/productos-list.component';
+import { PaginaHomeComponent } from './pagina-home/pagina-home.component';
+import { PaginaErrorComponent } from './pagina-error/pagina-error.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProvinciasComponent,
-    ProductosListComponent
+    ProductosListComponent,
+    PaginaHomeComponent,
+    PaginaErrorComponent
   ],
   imports: [
     BrowserModule,
@@ -21,7 +25,7 @@ import { ProductosListComponent } from './productos-list/productos-list.componen
     FormsModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [ProvinciasComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
