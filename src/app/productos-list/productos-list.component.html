@@ -1,6 +1,10 @@
 <h1>Productos de {{ nombreProvincia }}</h1>
-<div *ngFor="let producto of productos" class="card col-sm-3">
-    <h5 class="card-title">{{ producto.nombre }}</h5>
-    <h6 class="card-subtitle mb-2 text-muted">{{ producto.ean }}</h6>
-    <p class="card-text">$ {{ producto.precio }}</p>
+<div class="container">
+    <div class="row">
+        <div *ngFor="let producto of productos" class="card col-sm-3">
+            <h5 class="card-title">{{ producto.nombre }}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{ producto.ean }}</h6>
+            <p class="card-text">$ {{ producto.precio }}</p>
+        </div>
+    </div>
 </div>
