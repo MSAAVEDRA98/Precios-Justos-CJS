@@ -12,26 +12,38 @@ import { ProvinciasComponent } from '../provincias/provincias.component';
 export class ProductosListComponent implements OnInit {
 
   productos: Producto[] = [];
+  productosFiltrados: Producto[] = [];
+
   nombreProvincia:string = "";
+  nombreProducto:string = "";
+  precioMaximo:number = 1000;
 
 constructor(private productoService:ProductosServiceService, private actRouter:ActivatedRoute) {
 
   this.nombreProvincia = this.actRouter.snapshot.params["nombreProvincia"];
   console.log(this.actRouter);
   console.log(this.nombreProvincia);
+  console.log(this.nombreProducto);
+  
 
   let provincia:string = this.nombreProvincia;
 
-  // let provincia:string = "tierra-del-fuego";
   this.productoService.getProductos(provincia).subscribe((data:any)=>{
-    // console.log(data);
-    this.productos = data;    //Alamacena en el arreglo "productos" los datos de los productos que hay en la API de la provincia qeu se pasa por parametro en "provincia"
 
-    
-
+    //Alamacena en el arreglo "productos" los datos de los productos que hay en la API de la provincia qeu se pasa por parametro en "provincia"
+    this.productos = data;
+    this.productosFiltrados = data;
   });
 }
 
+filtroTexto(event:any){
+  // console.log(event);
+  
+  this.productosFiltrados = this.productos.filter((producto:Producto) =>{
+    return producto.nombre.toLowerCase().includes(event.toLowerCase())
+    || (producto.ean + "").includes(event);
+  });
+}
   ngOnInit(): void {  }
 
 }

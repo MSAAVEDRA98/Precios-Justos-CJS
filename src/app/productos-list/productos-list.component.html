@@ -1,7 +1,27 @@
-<h1>Productos de {{ nombreProvincia }}</h1>
+<h1 style="display: flex;justify-content:center;">Productos de {{ nombreProvincia }}</h1>
+
 <div class="container">
     <div class="row">
-        <div *ngFor="let producto of productos" class="card col-sm-3">
+        <div class="col-sm-6">
+            <label for="searchProd">Buscar un producto</label>
+            <div>
+                <input
+                [(ngModel)]="nombreProducto"
+                (ngModelChange) = "filtroTexto(nombreProducto)"
+                type="text"
+                >
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <label for="customRange1" class="form-label">Precio Maximo</label>
+            <input type="range" class="form-range" id="customRange1">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div *ngFor="let producto of productosFiltrados" class="card col-sm-3">
             <h5 class="card-title">{{ producto.nombre }}</h5>
             <h6 class="card-subtitle mb-2 text-muted">{{ producto.ean }}</h6>
             <p class="card-text">$ {{ producto.precio }}</p>

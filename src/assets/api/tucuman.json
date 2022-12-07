@@ -1,5 +1,5 @@
 {
-  "range": "'25 Tucumán'!A1:Z1825",
+  "range": "'25 Tucuman'!A1:Z1825",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "EAN",
-      "Descripción",
+      "Descripcion",
       "Precio"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "7791290009769",
-      "Jabón Líquido para Ropa Ropa Fina Doypack Ala 900 ml",
+      "Jabon Liquido para Ropa Ropa Fina Doypack Ala 900 ml",
       "357,66"
     ],
     [
@@ -29,12 +29,12 @@
     ],
     [
       "7791290790650",
-      "Jabón en Polvo Matic Ala 800 gr",
+      "Jabon en Polvo Matic Ala 800 gr",
       "231,4"
     ],
     [
       "7791290790681",
-      "Jabón en Polvo Matic Ala 3000 gr",
+      "Jabon en Polvo Matic Ala 3000 gr",
       "974,06"
     ],
     [
@@ -44,12 +44,12 @@
     ],
     [
       "7791290791695",
-      "Jabón en Polvo Baja Espuma PH Balanceado Skip 600 gr",
+      "Jabon en Polvo Baja Espuma PH Balanceado Skip 600 gr",
       "300,77"
     ],
     [
       "7791290791992",
-      "Lavavajillas Colágeno Ala 750 ml",
+      "Lavavajillas Colageno Ala 750 ml",
       "215,38"
     ],
     [
@@ -64,27 +64,27 @@
     ],
     [
       "7791290792784",
-      "Lustramuebles Esencial Cítricas Doypack Cif 380 Ml",
+      "Lustramuebles Esencial Citricas Doypack Cif 380 Ml",
       "342,16"
     ],
     [
       "7791290793033",
-      "Jabón Líquido para Ropa Matic Colores Radiantes Sol Drive 800 ml",
+      "Jabon Liquido para Ropa Matic Colores Radiantes Sol Drive 800 ml",
       "234,42"
     ],
     [
       "7791293040608",
-      "Jabón de Tocador Antibacterial Fresh Rexona 90 gr",
+      "Jabon de Tocador Antibacterial Fresh Rexona 90 gr",
       "102,65"
     ],
     [
       "7791293040660",
-      "Jabón de Tocador Antibacterial Fresh x 3 Rexona 90 gr",
+      "Jabon de Tocador Antibacterial Fresh x 3 Rexona 90 gr",
       "267,07"
     ],
     [
       "7791293041858",
-      "Jabón Líquido p/ Manos Pump Antibacterial Fresh Rexona 250 ml",
+      "Jabon Liquido p/ Manos Pump Antibacterial Fresh Rexona 250 ml",
       "187,93"
     ],
     [
@@ -94,12 +94,12 @@
     ],
     [
       "7791293042893",
-      "Acondicionador Bomba Nutrición Sedal 650 ml",
+      "Acondicionador Bomba Nutricion Sedal 650 ml",
       "520"
     ],
     [
       "7791293043067",
-      "Shampoo Bomba Nutrición Sedal 650 ml",
+      "Shampoo Bomba Nutricion Sedal 650 ml",
       "520"
     ],
     [
@@ -129,17 +129,17 @@
     ],
     [
       "7791290009745",
-      "Jabón Líquido para Ropa Ropa Fina Matic Doypack Ala Camellito 450 ml",
+      "Jabon Liquido para Ropa Ropa Fina Matic Doypack Ala Camellito 450 ml",
       "225,99"
     ],
     [
       "7791290009738",
-      "Jabón Líquido para Ropa Para Ropa Fina Camellito Ala 900 cc",
+      "Jabon Liquido para Ropa Para Ropa Fina Camellito Ala 900 cc",
       "531,23"
     ],
     [
       "7791290786691",
-      "Suavizante para Ropa Concentrado Doypack Vívere 450 ml",
+      "Suavizante para Ropa Concentrado Doypack Vivere 450 ml",
       "286,62"
     ],
     [
@@ -149,12 +149,12 @@
     ],
     [
       "7791290793019",
-      "Jabón Líquido para Ropa Colores Radiantes Doypack Drive 3000 ml",
+      "Jabon Liquido para Ropa Colores Radiantes Doypack Drive 3000 ml",
       "1.188,82"
     ],
     [
       "7791293037318",
-      "Jabón Líquido p/ Manos Karite & Verbena Doypack Dove 220 Ml",
+      "Jabon Liquido p/ Manos Karite & Verbena Doypack Dove 220 Ml",
       "347,88"
     ],
     [
@@ -199,7 +199,7 @@
     ],
     [
       "7791293033112",
-      "Crema Corporal Humectación Intensiva St Ives 532 Ml",
+      "Crema Corporal Humectacion Intensiva St Ives 532 Ml",
       "992,06"
     ],
     [
@@ -209,7 +209,7 @@
     ],
     [
       "7791293036885",
-      "Jabón Líquido p/ Manos Pepino Suave 220 Ml",
+      "Jabon Liquido p/ Manos Pepino Suave 220 Ml",
       "146,84"
     ],
     [
@@ -224,17 +224,17 @@
     ],
     [
       "7791293036908",
-      "Jabón Líquido p/ Manos Karite y Verbena Suave 220 Ml",
+      "Jabon Liquido p/ Manos Karite y Verbena Suave 220 Ml",
       "147,63"
     ],
     [
       "7791293044293",
-      "Jabón Líquido p/ Manos Botanicals Jazmín Lux 220 Ml",
+      "Jabon Liquido p/ Manos Botanicals Jazmin Lux 220 Ml",
       "288,17"
     ],
     [
       "7791293046068",
-      "Jabón de Tocador Glicerina Frutos Rojos Rexona 90 gr",
+      "Jabon de Tocador Glicerina Frutos Rojos Rexona 90 gr",
       "203,63"
     ],
     [
@@ -244,7 +244,7 @@
     ],
     [
       "7794000006379",
-      "Puré de Papas Pure de papa Listo Knorr 125 gr",
+      "Pure de Papas Pure de papa Listo Knorr 125 gr",
       "321,47"
     ],
     [
@@ -314,7 +314,7 @@
     ],
     [
       "7798013102875",
-      "Jamón Cocido Natural Feteado Cagnoli 120 gr",
+      "Jamon Cocido Natural Feteado Cagnoli 120 gr",
       "447,1"
     ],
     [
@@ -339,17 +339,17 @@
     ],
     [
       "7891167011748",
-      "Conservas de Pescado Atún Desmenuzado al Natural Gomes Da Costa 170 gr",
+      "Conservas de Pescado Atun Desmenuzado al Natural Gomes Da Costa 170 gr",
       "191,7"
     ],
     [
       "7891167011779",
-      "Conservas de Pescado Atún Desmenuzado en Aceite Gomes Da Costa 170 gr",
+      "Conservas de Pescado Atun Desmenuzado en Aceite Gomes Da Costa 170 gr",
       "191,7"
     ],
     [
       "7613034793614",
-      "Helado Bombón Luxur 265 gr",
+      "Helado Bombon Luxur 265 gr",
       "911,27"
     ],
     [
@@ -359,12 +359,12 @@
     ],
     [
       "7891167012066",
-      "Conserva de Pescado Lomitos de Atún al Natural Bajo en Sodio Gomes Da Costa 170 gr",
+      "Conserva de Pescado Lomitos de Atun al Natural Bajo en Sodio Gomes Da Costa 170 gr",
       "417,98"
     ],
     [
       "7891167012059",
-      "Conserva de Pescado Lomitos de Atún al Natural Bajo en Sodio Gomes Da Costa 170 gr",
+      "Conserva de Pescado Lomitos de Atun al Natural Bajo en Sodio Gomes Da Costa 170 gr",
       "417,98"
     ],
     [
@@ -404,7 +404,7 @@
     ],
     [
       "7796373002385",
-      "Condimentos y Especias Orégano La Parmesana 25 gr",
+      "Condimentos y Especias Oregano La Parmesana 25 gr",
       "123,76"
     ],
     [
@@ -414,7 +414,7 @@
     ],
     [
       "7796373112206",
-      "Condimentos y Especias Ají Molido La Parmesana 25 gr",
+      "Condimentos y Especias Aji Molido La Parmesana 25 gr",
       "64,27"
     ],
     [
@@ -449,7 +449,7 @@
     ],
     [
       "7798224210390",
-      "Aderezos Salsa de Soja Reducción La Parmesana 300 gr",
+      "Aderezos Salsa de Soja Reduccion La Parmesana 300 gr",
       "319"
     ],
     [
@@ -484,7 +484,7 @@
     ],
     [
       "7790045825487",
-      "Cereales Bocadito Relleno con Crema de Limón Granix 180 gr",
+      "Cereales Bocadito Relleno con Crema de Limon Granix 180 gr",
       "378,33"
     ],
     [
@@ -509,12 +509,12 @@
     ],
     [
       "7898587761925",
-      "Acondicionador Reparación Total L'oreal 200 ml",
+      "Acondicionador Reparacion Total L'oreal 200 ml",
       "309,6"
     ],
     [
       "7898587761864",
-      "Shampoo Reparación Total L'oreal 200 ml",
+      "Shampoo Reparacion Total L'oreal 200 ml",
       "309,6"
     ],
     [
@@ -549,7 +549,7 @@
     ],
     [
       "7790380003267",
-      "Oblea Rellena Turrón De Maní Blando Georgalos 130 gr",
+      "Oblea Rellena Turron De Mani Blando Georgalos 130 gr",
       "411,84"
     ],
     [
@@ -559,12 +559,12 @@
     ],
     [
       "7790380012627",
-      "Budín Clásico Georgalos 250 gr",
+      "Budin Clasico Georgalos 250 gr",
       "785,2"
     ],
     [
       "7790380012641",
-      "Budín Marmolado Georgalos 250 gr",
+      "Budin Marmolado Georgalos 250 gr",
       "785,2"
     ],
     [
@@ -579,7 +579,7 @@
     ],
     [
       "7791905022824",
-      "Jabón Líquido p/ Manos Green Doypack Polyana 220 Ml",
+      "Jabon Liquido p/ Manos Green Doypack Polyana 220 Ml",
       "174,2"
     ],
     [
@@ -594,7 +594,7 @@
     ],
     [
       "7798344320436",
-      "Cepillo Dental Infantil Sustentable Plástico Reciclado 2Life 1 un",
+      "Cepillo Dental Infantil Sustentable Plastico Reciclado 2Life 1 un",
       "79,4"
     ],
     [
@@ -719,7 +719,7 @@
     ],
     [
       "7790070507273",
-      "Yerba Mate Nobleza Gaucha Selección x500 Nobleza Gaucha 500 gr",
+      "Yerba Mate Nobleza Gaucha Seleccion x500 Nobleza Gaucha 500 gr",
       "405"
     ],
     [
@@ -779,7 +779,7 @@
     ],
     [
       "7790070507341",
-      "Jugo de Limón Jugo de Limón Minerva 500 ml",
+      "Jugo de Limon Jugo de Limon Minerva 500 ml",
       "235"
     ],
     [
@@ -794,12 +794,12 @@
     ],
     [
       "7790070936493",
-      "Café Instantáneo Selección Arlistán 100 gr",
+      "Cafe Instantaneo Seleccion Arlistan 100 gr",
       "530"
     ],
     [
       "7790070936516",
-      "Café Instantaneo Arlistán 50 gr",
+      "Cafe Instantaneo Arlistan 50 gr",
       "381"
     ],
     [
@@ -829,7 +829,7 @@
     ],
     [
       "7790070032706",
-      "Brócoli Congelado Granja del Sol 400 gr",
+      "Brocoli Congelado Granja del Sol 400 gr",
       "475"
     ],
     [
@@ -879,7 +879,7 @@
     ],
     [
       "7790250019008",
-      "Papel Higiénico Simple Hoja 50 metros Higienol 4 un",
+      "Papel Higienico Simple Hoja 50 metros Higienol 4 un",
       "515,84"
     ],
     [
@@ -889,12 +889,12 @@
     ],
     [
       "7790250097419",
-      "Toallas Higiénicas p/Menstruantes Normal con alas T/Seca Ladysoft 8 un",
+      "Toallas Higienicas p/Menstruantes Normal con alas T/Seca Ladysoft 8 un",
       "188,45"
     ],
     [
       "7790250026044",
-      "Papel Higiénico Simple Hoja 90 metros Higienol 4 un",
+      "Papel Higienico Simple Hoja 90 metros Higienol 4 un",
       "706,39"
     ],
     [
@@ -909,7 +909,7 @@
     ],
     [
       "7790250097518",
-      "Toallitas Higiénicas p/Menstruantes Normal Nocturna Ladysoft 8 un",
+      "Toallitas Higienicas p/Menstruantes Normal Nocturna Ladysoft 8 un",
       "243,36"
     ],
     [
@@ -934,12 +934,12 @@
     ],
     [
       "8445290367372",
-      "Puré de Papas Chef Maggi 100 gr",
+      "Pure de Papas Chef Maggi 100 gr",
       "206,75"
     ],
     [
       "7613287290380",
-      "Café Instantáneo Tradición Nescafe 150 gr",
+      "Cafe Instantaneo Tradicion Nescafe 150 gr",
       "530,14"
     ],
     [
@@ -949,17 +949,17 @@
     ],
     [
       "7613287867841",
-      "Leche en Polvo Con Prebióticos s/TACC Nido 400 gr",
+      "Leche en Polvo Con Prebioticos s/TACC Nido 400 gr",
       "691,81"
     ],
     [
       "7613287171610",
-      "Café Dolca Suave Sobrecito 8G Nescafé 5 un",
+      "Cafe Dolca Suave Sobrecito 8G Nescafe 5 un",
       "79,56"
     ],
     [
       "7613287239822",
-      "Café Capuccino Nescafé 12,5 gr",
+      "Cafe Capuccino Nescafe 12,5 gr",
       "74,36"
     ],
     [
@@ -969,12 +969,12 @@
     ],
     [
       "8445290024794",
-      "Alimento Infantil Orgánico Multi S/Azúcar Nestum 225 gr",
+      "Alimento Infantil Organico Multi S/Azucar Nestum 225 gr",
       "1.021,59"
     ],
     [
       "7792799000905",
-      "Agua Mineral Sin Gas Nestlé 1500 ml",
+      "Agua Mineral Sin Gas Nestle 1500 ml",
       "104"
     ],
     [
@@ -1009,22 +1009,22 @@
     ],
     [
       "7790550020230",
-      "Café Molido Torrado al Grano de Café Cabrales 500 gr",
+      "Cafe Molido Torrado al Grano de Cafe Cabrales 500 gr",
       "988"
     ],
     [
       "7790550806407",
-      "Café Capuccino Instantaneo 80 Aniversario Cabrales 125 gr",
+      "Cafe Capuccino Instantaneo 80 Aniversario Cabrales 125 gr",
       "581,72"
     ],
     [
       "7790550000218",
-      "Té Común Big Ben 50 un",
+      "Te Comun Big Ben 50 un",
       "207,64"
     ],
     [
       "7790550026676",
-      "Café Soluble Doy Pacl La Planta de Café 110 gr",
+      "Cafe Soluble Doy Pacl La Planta de Cafe 110 gr",
       "714,68"
     ],
     [
@@ -1039,17 +1039,17 @@
     ],
     [
       "7790522118088",
-      "Tapas de Empanadas Horno/Freir Mendía 300 gr",
+      "Tapas de Empanadas Horno/Freir Mendia 300 gr",
       "186,16"
     ],
     [
       "7790522117944",
-      "Tapas de Empanadas Horno Pizzería Mendia 520 gr",
+      "Tapas de Empanadas Horno Pizzeria Mendia 520 gr",
       "296,4"
     ],
     [
       "7790522001694",
-      "Tapas de Tarta Pascualina Mediana Mendía 230 gr",
+      "Tapas de Tarta Pascualina Mediana Mendia 230 gr",
       "166,4"
     ],
     [
@@ -1074,12 +1074,12 @@
     ],
     [
       "7790427000174",
-      "Fideos Huevo Mostachol Trisabor Espinaca Morrón 308 500 gr",
+      "Fideos Huevo Mostachol Trisabor Espinaca Morron 308 500 gr",
       "156,17"
     ],
     [
       "7790427000167",
-      "Fideos Huevo TirabuzonTrisabor Huevo Espinaca Morrón 308 500 gr",
+      "Fideos Huevo TirabuzonTrisabor Huevo Espinaca Morron 308 500 gr",
       "156,17"
     ],
     [
@@ -1099,27 +1099,27 @@
     ],
     [
       "7790427002093",
-      "Fideos Semola tirabuzon de Sémola 308 500 gr",
+      "Fideos Semola tirabuzon de Semola 308 500 gr",
       "129,7"
     ],
     [
       "7790427002123",
-      "Fideos Semola Codos Grandes de Sémola 308 500 gr",
+      "Fideos Semola Codos Grandes de Semola 308 500 gr",
       "129,7"
     ],
     [
       "7790427002062",
-      "Fideos Semola Mostachol de Sémola 308 500 gr",
+      "Fideos Semola Mostachol de Semola 308 500 gr",
       "129,7"
     ],
     [
       "7790427003021",
-      "Fideos Semola Vermichelli de Sémola 308 500 gr",
+      "Fideos Semola Vermichelli de Semola 308 500 gr",
       "129,7"
     ],
     [
       "7792540260138",
-      "Azúcar Clásica Ledesma 1000 gr",
+      "Azucar Clasica Ledesma 1000 gr",
       "219"
     ],
     [
@@ -1139,7 +1139,7 @@
     ],
     [
       "7792900093338",
-      "Condimentos y Especias Ají Molido Dos Anclas 25 gr",
+      "Condimentos y Especias Aji Molido Dos Anclas 25 gr",
       "158,89"
     ],
     [
@@ -1169,7 +1169,7 @@
     ],
     [
       "7891024035696",
-      "Jabón Líquido p/ Manos Jazmín Repuesto Palmolive 1 un",
+      "Jabon Liquido p/ Manos Jazmin Repuesto Palmolive 1 un",
       "252,82"
     ],
     [
@@ -1179,7 +1179,7 @@
     ],
     [
       "7702010631207",
-      "Cepillo Dental Triple Acción Colgate 2 un",
+      "Cepillo Dental Triple Accion Colgate 2 un",
       "260,42"
     ],
     [
@@ -1189,22 +1189,22 @@
     ],
     [
       "7509546668543",
-      "Jabón Líquido p/ Manos Antibacterial Pro Hidratación Protex 230 Ml",
+      "Jabon Liquido p/ Manos Antibacterial Pro Hidratacion Protex 230 Ml",
       "477,98"
     ],
     [
       "7891024028353",
-      "Crema Dental Maxima Protección Anticaries Colgate 70 gr",
+      "Crema Dental Maxima Proteccion Anticaries Colgate 70 gr",
       "172,54"
     ],
     [
       "7509546668598",
-      "Jabón Pro Hydration Protex 80 gr",
+      "Jabon Pro Hydration Protex 80 gr",
       "172,54"
     ],
     [
       "7891024034781",
-      "Jabón de Tocador Natrals Hidratacion Intensa Karite Palmolive 85 gr",
+      "Jabon de Tocador Natrals Hidratacion Intensa Karite Palmolive 85 gr",
       "112,32"
     ],
     [
@@ -1229,7 +1229,7 @@
     ],
     [
       "7795184129281",
-      "Puré de Tomate Noel 210 gr",
+      "Pure de Tomate Noel 210 gr",
       "89,42"
     ],
     [
@@ -1239,7 +1239,7 @@
     ],
     [
       "7509546665818",
-      "Jabón Líquido p/ Manos Luminous Oils Aguacate Palmolive 250 Ml",
+      "Jabon Liquido p/ Manos Luminous Oils Aguacate Palmolive 250 Ml",
       "499,2"
     ],
     [
@@ -1254,7 +1254,7 @@
     ],
     [
       "7509546674438",
-      "Crema Dental Natural Extracts Carbón Activado y Menta Colgate 70 gr",
+      "Crema Dental Natural Extracts Carbon Activado y Menta Colgate 70 gr",
       "432,02"
     ],
     [
@@ -1264,7 +1264,7 @@
     ],
     [
       "7891024027257",
-      "Jabón Líquido p/ Manos Vitamina E Doypack Protex 200 cc",
+      "Jabon Liquido p/ Manos Vitamina E Doypack Protex 200 cc",
       "337,38"
     ],
     [
@@ -1289,12 +1289,12 @@
     ],
     [
       "7792360070153",
-      "Café En Saquitos Sensaciones Bonafide 100 gr",
+      "Cafe En Saquitos Sensaciones Bonafide 100 gr",
       "446,62"
     ],
     [
       "7792360002383",
-      "Café Molido Torrado Bonafide 1000 gr",
+      "Cafe Molido Torrado Bonafide 1000 gr",
       "2.252,12"
     ],
     [
@@ -1309,12 +1309,12 @@
     ],
     [
       "7798186032924",
-      "Oblea Rellena Turrón De Maní sin TACC Billiken 25 gr",
+      "Oblea Rellena Turron De Mani sin TACC Billiken 25 gr",
       "39,99"
     ],
     [
       "7798186034010",
-      "Turrón Mini Turrón Billiken 100 gr",
+      "Turron Mini Turron Billiken 100 gr",
       "149,99"
     ],
     [
@@ -1374,22 +1374,22 @@
     ],
     [
       "7790170904798",
-      "Café Instantáneo La Morenita 100 gr",
+      "Cafe Instantaneo La Morenita 100 gr",
       "362,25"
     ],
     [
       "7790170914056",
-      "Té Común La Morenita 100 un",
+      "Te Comun La Morenita 100 un",
       "372,63"
     ],
     [
       "7790150006375",
-      "Café Molido Torrado La Virginia 1000 gr",
+      "Cafe Molido Torrado La Virginia 1000 gr",
       "1.965,60"
     ],
     [
       "7790150080146",
-      "Café Molido en Saquitos La Virginia 20 un",
+      "Cafe Molido en Saquitos La Virginia 20 un",
       "573,91"
     ],
     [
@@ -1399,12 +1399,12 @@
     ],
     [
       "7790150161326",
-      "Capsulas de Café Latte Doypack La Virginia 125 gr",
+      "Capsulas de Cafe Latte Doypack La Virginia 125 gr",
       "374,15"
     ],
     [
       "7790150812945",
-      "Edulcorante Clásico 0 Calorias en Sobres La Virginia 100 un",
+      "Edulcorante Clasico 0 Calorias en Sobres La Virginia 100 un",
       "402,68"
     ],
     [
@@ -1429,7 +1429,7 @@
     ],
     [
       "7790670051336",
-      "Medallones Con Morrón 100 Gr Paty 2 un",
+      "Medallones Con Morron 100 Gr Paty 2 un",
       "542"
     ],
     [
@@ -1444,12 +1444,12 @@
     ],
     [
       "7790360965721",
-      "Paté de Foie Pimentada verde Swift 85 gr",
+      "Pate de Foie Pimentada verde Swift 85 gr",
       "200"
     ],
     [
       "7790360965189",
-      "Paté de Foie Swift 85 gr",
+      "Pate de Foie Swift 85 gr",
       "200"
     ],
     [
@@ -1474,12 +1474,12 @@
     ],
     [
       "7791274199967",
-      "Toallitas Húmedas Antibacteriales Para Manos Wipes Star Wars 10 un",
+      "Toallitas Humedas Antibacteriales Para Manos Wipes Star Wars 10 un",
       "99"
     ],
     [
       "7791274199370",
-      "Toallitas Húmedas Con tapa Algabo 100 un",
+      "Toallitas Humedas Con tapa Algabo 100 un",
       "698"
     ],
     [
@@ -1489,7 +1489,7 @@
     ],
     [
       "7791274200588",
-      "Acondicionador 0% Oliva y Argán Algabo 750 Ml",
+      "Acondicionador 0% Oliva y Argan Algabo 750 Ml",
       "498"
     ],
     [
@@ -1499,7 +1499,7 @@
     ],
     [
       "7791274200601",
-      "Shampoo 0% Oliva y Argán Algabo 750 Ml",
+      "Shampoo 0% Oliva y Argan Algabo 750 Ml",
       "498"
     ],
     [
@@ -1529,22 +1529,22 @@
     ],
     [
       "7791274003110",
-      "Talco Pédico Algabo 60 gr",
+      "Talco Pedico Algabo 60 gr",
       "198"
     ],
     [
       "7791274004360",
-      "Talco Pédico Mujer Algabo 60 gr",
+      "Talco Pedico Mujer Algabo 60 gr",
       "198"
     ],
     [
       "7791274003578",
-      "Talco de Fécula Algabo 250 gr",
+      "Talco de Fecula Algabo 250 gr",
       "398"
     ],
     [
       "7791274004957",
-      "Jabón Líquido p/ Manos Espuma Cereza / Canela Doypack Algabo 250 Ml",
+      "Jabon Liquido p/ Manos Espuma Cereza / Canela Doypack Algabo 250 Ml",
       "298"
     ],
     [
@@ -1554,17 +1554,17 @@
     ],
     [
       "7791274200649",
-      "Óleo Calcáreo Doy Pack Algabo 500 Ml",
+      "oleo Calcareo Doy Pack Algabo 500 Ml",
       "498"
     ],
     [
       "7791274200663",
-      "Óleo Calcáreo Algabo 500 Ml",
+      "oleo Calcareo Algabo 500 Ml",
       "798"
     ],
     [
       "7791274197024",
-      "Toallas Húmedas p/ Bebé Wipes Algabo 48 un",
+      "Toallas Humedas p/ Bebe Wipes Algabo 48 un",
       "398"
     ],
     [
@@ -1579,12 +1579,12 @@
     ],
     [
       "7501054550990",
-      "Apósitos Curitas Manía Curitas 6 un",
+      "Apositos Curitas Mania Curitas 6 un",
       "98,36"
     ],
     [
       "4005800274411",
-      "Talco Pédico Desodorante para Pies Curitas 150 ml",
+      "Talco Pedico Desodorante para Pies Curitas 150 ml",
       "323,67"
     ],
     [
@@ -1624,12 +1624,12 @@
     ],
     [
       "7702003010781",
-      "Apósitos Transpiel Curitas 20 un",
+      "Apositos Transpiel Curitas 20 un",
       "218"
     ],
     [
       "4005900985156",
-      "Crema Hidratante Body Soft Milk Manteca de Karité Nivea 250 Ml",
+      "Crema Hidratante Body Soft Milk Manteca de Karite Nivea 250 Ml",
       "739"
     ],
     [
@@ -1654,7 +1654,7 @@
     ],
     [
       "7790742151001",
-      "Dulce de Leche Clásico Casanto 400 gr",
+      "Dulce de Leche Clasico Casanto 400 gr",
       "210,81"
     ],
     [
@@ -1669,22 +1669,22 @@
     ],
     [
       "7790742771605",
-      "Crema De Leche Para Cocinar La Serenísima 520 cc",
+      "Crema De Leche Para Cocinar La Serenisima 520 cc",
       "587,91"
     ],
     [
       "7790742104809",
-      "Dulce de Leche Clásico La Serenísima 250 cc",
+      "Dulce de Leche Clasico La Serenisima 250 cc",
       "263,02"
     ],
     [
       "7790742034922",
-      "Leche Fresca Clásica Más Liviana 2% La Serenísima 1000 ml",
+      "Leche Fresca Clasica Mas Liviana 2% La Serenisima 1000 ml",
       "215,28"
     ],
     [
       "7793940448003",
-      "Leche Fresca Entera 3% La Serenísima 1000 ml",
+      "Leche Fresca Entera 3% La Serenisima 1000 ml",
       "215,28"
     ],
     [
@@ -1694,42 +1694,42 @@
     ],
     [
       "7790742034915",
-      "Leche Fresca Parcialmente Descremada 1% La Serenísima 1000 ml",
+      "Leche Fresca Parcialmente Descremada 1% La Serenisima 1000 ml",
       "215,28"
     ],
     [
       "7790742034502",
-      "Leche Fresca Ultra Descremada 0% La Serenísima 1000 ml",
+      "Leche Fresca Ultra Descremada 0% La Serenisima 1000 ml",
       "215,28"
     ],
     [
       "7790742144607",
-      "Dulce de Leche CLásico La Serenísima 400 gr",
+      "Dulce de Leche CLasico La Serenisima 400 gr",
       "365,82"
     ],
     [
       "7790742436306",
-      "Leche En Polvo Entera La Serenísima 400 gr",
+      "Leche En Polvo Entera La Serenisima 400 gr",
       "694,27"
     ],
     [
       "7790742357007",
-      "Leche Larga Vida Entera Clásica 3% La Serenísima 1000 ml",
+      "Leche Larga Vida Entera Clasica 3% La Serenisima 1000 ml",
       "232,17"
     ],
     [
       "7790742345806",
-      "Manteca Multivitamina La Serenísima 200 gr",
+      "Manteca Multivitamina La Serenisima 200 gr",
       "484,56"
     ],
     [
       "7790742223104",
-      "Queso Rallado Reggianito La Serenísima 130 gr",
+      "Queso Rallado Reggianito La Serenisima 130 gr",
       "662,62"
     ],
     [
       "7790742102805",
-      "Ricota Entera García 500 gr",
+      "Ricota Entera Garcia 500 gr",
       "281,75"
     ],
     [
@@ -1749,7 +1749,7 @@
     ],
     [
       "7622201509194",
-      "Galletitas de Agua Clásicas Express 303 gr",
+      "Galletitas de Agua Clasicas Express 303 gr",
       "252,78"
     ],
     [
@@ -1789,7 +1789,7 @@
     ],
     [
       "7622300990732",
-      "Snacks Clásicos Club Social 144 gr",
+      "Snacks Clasicos Club Social 144 gr",
       "212,99"
     ],
     [
@@ -1829,32 +1829,32 @@
     ],
     [
       "7794626012600",
-      "Pañales Descartables Triple Protección G Huggies 22 un",
+      "Pañales Descartables Triple Proteccion G Huggies 22 un",
       "577,9"
     ],
     [
       "7794626009211",
-      "Pañales Descartables Triple Protección M Huggies 26 un",
+      "Pañales Descartables Triple Proteccion M Huggies 26 un",
       "577,9"
     ],
     [
       "7794626010378",
-      "Pañales Descartables Triple Protección P Huggies 34 un",
+      "Pañales Descartables Triple Proteccion P Huggies 34 un",
       "648,2"
     ],
     [
       "7794626012617",
-      "Pañales Descartables Triple Protección Xg Huggies 18 un",
+      "Pañales Descartables Triple Proteccion Xg Huggies 18 un",
       "577,9"
     ],
     [
       "7794626009242",
-      "Pañales Descartables Triple Protección Xxg Huggies 17 un",
+      "Pañales Descartables Triple Proteccion Xxg Huggies 17 un",
       "577,9"
     ],
     [
       "7794626999321",
-      "Protectores Diarios Protectores Dúo Kotex 20 un",
+      "Protectores Diarios Protectores Duo Kotex 20 un",
       "272,5"
     ],
     [
@@ -1864,17 +1864,17 @@
     ],
     [
       "7794626009723",
-      "Toallitas Higiénicas p/Menstruantes Antibacterial Ultrafina con Alas Kotex 10 un",
+      "Toallitas Higienicas p/Menstruantes Antibacterial Ultrafina con Alas Kotex 10 un",
       "301,1"
     ],
     [
       "7794626999314",
-      "Toallitas Higiénicas p/Menstruantes Para Inconsistencia c/Alas Kotex 8 un",
+      "Toallitas Higienicas p/Menstruantes Para Inconsistencia c/Alas Kotex 8 un",
       "236,4"
     ],
     [
       "7794626010811",
-      "Toallitas Higiénicas p/Menstruantes Normal con Alas Kotex 8 un",
+      "Toallitas Higienicas p/Menstruantes Normal con Alas Kotex 8 un",
       "135,3"
     ],
     [
@@ -1884,7 +1884,7 @@
     ],
     [
       "7794626010217",
-      "Toallas Húmedas p/ Bebé Triple Protección Huggies 48 un",
+      "Toallas Humedas p/ Bebe Triple Proteccion Huggies 48 un",
       "597,1"
     ],
     [
@@ -1919,7 +1919,7 @@
     ],
     [
       "7806550002487",
-      "Apósitos Adultos regular Plenitud 40 un",
+      "Apositos Adultos regular Plenitud 40 un",
       "1,616,80"
     ],
     [
@@ -1929,37 +1929,37 @@
     ],
     [
       "7798062052008",
-      "Toallitas Húmedas Antibacteriales Germex 30 un",
+      "Toallitas Humedas Antibacteriales Germex 30 un",
       "430"
     ],
     [
       "7798062052497",
-      "Óleo Calcáreo Aceite de Almendras DP Sanicare 900 ml",
+      "oleo Calcareo Aceite de Almendras DP Sanicare 900 ml",
       "590"
     ],
     [
       "7798062052237",
-      "Óleo Calcáreo Clásico Sanicare 450 ml",
+      "oleo Calcareo Clasico Sanicare 450 ml",
       "550"
     ],
     [
       "7798062052503",
-      "Óleo Calcáreo Aceite de Almendras BOT Sanicare 900 ml",
+      "oleo Calcareo Aceite de Almendras BOT Sanicare 900 ml",
       "750"
     ],
     [
       "7798062051889",
-      "Toallas Húmedas p/ Bebé Avena Doypack Sanicare 100 un",
+      "Toallas Humedas p/ Bebe Avena Doypack Sanicare 100 un",
       "498"
     ],
     [
       "7798062051896",
-      "Toallas Húmedas p/ Bebé Avena Doypack Sanicare 100 un",
+      "Toallas Humedas p/ Bebe Avena Doypack Sanicare 100 un",
       "289"
     ],
     [
       "7798062052350",
-      "Toallitas Húmedas Adulto con Pantenol Flowpack Sanicare 60 un",
+      "Toallitas Humedas Adulto con Pantenol Flowpack Sanicare 60 un",
       "750"
     ],
     [
@@ -1969,22 +1969,22 @@
     ],
     [
       "7794440045938",
-      "Guantes de Látex Talle L Plumita 2 un",
+      "Guantes de Latex Talle L Plumita 2 un",
       "177"
     ],
     [
       "7794440045921",
-      "Guantes de Látex Talle M Plumita 2 un",
+      "Guantes de Latex Talle M Plumita 2 un",
       "177"
     ],
     [
       "7794440045914",
-      "Guantes de Látex Talle S Plumita 2 un",
+      "Guantes de Latex Talle S Plumita 2 un",
       "177"
     ],
     [
       "7794440994694",
-      "Escobillón Nuevo escobillón MULTIUSO Reciclado Virulana 1 un",
+      "Escobillon Nuevo escobillon MULTIUSO Reciclado Virulana 1 un",
       "718"
     ],
     [
@@ -1994,7 +1994,7 @@
     ],
     [
       "7794440006564",
-      "Mopa De Algodón Virulana 1 un",
+      "Mopa De Algodon Virulana 1 un",
       "437"
     ],
     [
@@ -2009,7 +2009,7 @@
     ],
     [
       "7794440018208",
-      "Esponja Natural Clásica Calypso 1 un",
+      "Esponja Natural Clasica Calypso 1 un",
       "120"
     ],
     [
@@ -2019,7 +2019,7 @@
     ],
     [
       "7794440070022",
-      "Escobillón Para Interiores Virulana 1 un",
+      "Escobillon Para Interiores Virulana 1 un",
       "893"
     ],
     [
@@ -2039,7 +2039,7 @@
     ],
     [
       "7794440002610",
-      "Esponja Metálicas Metallic Power Virulana 2 un",
+      "Esponja Metalicas Metallic Power Virulana 2 un",
       "296"
     ],
     [
@@ -2104,7 +2104,7 @@
     ],
     [
       "7790199603856",
-      "Harina Integral Clásica Morixe 1000 gr",
+      "Harina Integral Clasica Morixe 1000 gr",
       "171,6"
     ],
     [
@@ -2184,7 +2184,7 @@
     ],
     [
       "7790520996015",
-      "Desodorante Automático Repuesto Lavanda y Vainilla Glade 175 gr",
+      "Desodorante Automatico Repuesto Lavanda y Vainilla Glade 175 gr",
       "792,2"
     ],
     [
@@ -2199,27 +2199,27 @@
     ],
     [
       "7790520017758",
-      "Limpiador De Inodoro Repuesto Canasta Sólida Glade 27,5 gr",
+      "Limpiador De Inodoro Repuesto Canasta Solida Glade 27,5 gr",
       "129,5"
     ],
     [
       "7790010002288",
-      "Protectores Diarios Sin Perfume Protección Carefree 60 un",
+      "Protectores Diarios Sin Perfume Proteccion Carefree 60 un",
       "810,88"
     ],
     [
       "7790010002295",
-      "Protectores Diarios Tanga - Todos los Días Carefree 20 un",
+      "Protectores Diarios Tanga - Todos los Dias Carefree 20 un",
       "339,67"
     ],
     [
       "7790010557085",
-      "Toallitas Higiénicas p/Menstruantes Adapt Plus N&D Siempre Libre 32 un",
+      "Toallitas Higienicas p/Menstruantes Adapt Plus N&D Siempre Libre 32 un",
       "1,112,99"
     ],
     [
       "7790010570770",
-      "Toallitas Higiénicas p/Menstruantes Adapt Plus S/A Siempre Libre 8 un",
+      "Toallitas Higienicas p/Menstruantes Adapt Plus S/A Siempre Libre 8 un",
       "294,27"
     ],
     [
@@ -2249,7 +2249,7 @@
     ],
     [
       "7891010253844",
-      "Crema Hidratante Mate 3 en 1 Neutrógena 100 gr",
+      "Crema Hidratante Mate 3 en 1 Neutrogena 100 gr",
       "821"
     ],
     [
@@ -2294,7 +2294,7 @@
     ],
     [
       "7790310984079",
-      "Snacks Maní Pehuamar 150 gr",
+      "Snacks Mani Pehuamar 150 gr",
       "322,4"
     ],
     [
@@ -2304,7 +2304,7 @@
     ],
     [
       "7790310984352",
-      "Snacks Palitos de Maíz Pehuamar 90 gr",
+      "Snacks Palitos de Maiz Pehuamar 90 gr",
       "145"
     ],
     [
@@ -2314,12 +2314,12 @@
     ],
     [
       "7790310984543",
-      "Snacks Maní Japones ají y Limón Maniax 110 gr",
+      "Snacks Mani Japones aji y Limon Maniax 110 gr",
       "307"
     ],
     [
       "7790310983904",
-      "Snacks Maní S/ Piel Pehuamar 90 gr",
+      "Snacks Mani S/ Piel Pehuamar 90 gr",
       "241"
     ],
     [
@@ -2379,12 +2379,12 @@
     ],
     [
       "7790360964557",
-      "Paté de Jamón del Diablo En lata Swift 88 gr",
+      "Pate de Jamon del Diablo En lata Swift 88 gr",
       "196,05"
     ],
     [
       "7790360965127",
-      "Paté de Foie Clásico La Blanca 90 gr",
+      "Pate de Foie Clasico La Blanca 90 gr",
       "90,36"
     ],
     [
@@ -2399,12 +2399,12 @@
     ],
     [
       "7790580130817",
-      "Conserva de Atún Desmenuzado Noel 170 gr",
+      "Conserva de Atun Desmenuzado Noel 170 gr",
       "279,57"
     ],
     [
       "7790580130824",
-      "Conserva de Atún Desmenuzado Noel 170 gr",
+      "Conserva de Atun Desmenuzado Noel 170 gr",
       "279,57"
     ],
     [
@@ -2439,7 +2439,7 @@
     ],
     [
       "7793360129964",
-      "Conserva de Atún Ensalada de Atún al agua La Campagnola 180 gr",
+      "Conserva de Atun Ensalada de Atun al agua La Campagnola 180 gr",
       "499,39"
     ],
     [
@@ -2474,12 +2474,12 @@
     ],
     [
       "7790040131187",
-      "Galletitas Dulces Clásicas Vocación 170 gr",
+      "Galletitas Dulces Clasicas Vocacion 170 gr",
       "110,98"
     ],
     [
       "7790040133211",
-      "Galletitas Dulces Clásicas Acarameladas Vocación 145 gr",
+      "Galletitas Dulces Clasicas Acarameladas Vocacion 145 gr",
       "124,98"
     ],
     [
@@ -2509,7 +2509,7 @@
     ],
     [
       "7790040124554",
-      "Tostadas Clásicas Ser 195 gr",
+      "Tostadas Clasicas Ser 195 gr",
       "301,12"
     ],
     [
@@ -2524,7 +2524,7 @@
     ],
     [
       "7790580133955",
-      "Harina de Maíz Arepas Prestopronta 1000 gr",
+      "Harina de Maiz Arepas Prestopronta 1000 gr",
       "449,9"
     ],
     [
@@ -2539,7 +2539,7 @@
     ],
     [
       "7790580138721",
-      "Harina de Maíz Instantánea Presto Pronta 750 gr",
+      "Harina de Maiz Instantanea Presto Pronta 750 gr",
       "328,64"
     ],
     [
@@ -2554,7 +2554,7 @@
     ],
     [
       "7790040872202",
-      "Galletitas de Agua Clásicas Traviata 303 gr",
+      "Galletitas de Agua Clasicas Traviata 303 gr",
       "210,91"
     ],
     [
@@ -2564,7 +2564,7 @@
     ],
     [
       "7790040124509",
-      "Tostadas Clásicas Criollitas 195 gr",
+      "Tostadas Clasicas Criollitas 195 gr",
       "178,43"
     ],
     [
@@ -2579,7 +2579,7 @@
     ],
     [
       "7790580138844",
-      "Puré de Tomate 0 Arcor 530 gr",
+      "Pure de Tomate 0 Arcor 530 gr",
       "149,06"
     ],
     [
@@ -2589,17 +2589,17 @@
     ],
     [
       "7790580567903",
-      "Conserva de Tomate Pelado Entero Común Arcor 400 gr",
+      "Conserva de Tomate Pelado Entero Comun Arcor 400 gr",
       "131,04"
     ],
     [
       "7790040887602",
-      "Galletitas de Agua Clásicas Media Tarde 321 gr",
+      "Galletitas de Agua Clasicas Media Tarde 321 gr",
       "123,07"
     ],
     [
       "7790040137837",
-      "Galletitas Dulces Mana con Vainilla Maná 136 gr",
+      "Galletitas Dulces Mana con Vainilla Mana 136 gr",
       "117,83"
     ],
     [
@@ -2639,17 +2639,17 @@
     ],
     [
       "7798186071435",
-      "Puré de Papas Primer Precio 100 gr",
+      "Pure de Papas Primer Precio 100 gr",
       "122,13"
     ],
     [
       "7798143480553",
-      "Conserva de Atún Desmenuzado en Aceite",
+      "Conserva de Atun Desmenuzado en Aceite",
       "227,76"
     ],
     [
       "7798143480546",
-      "Conserva de Atún Desmenuzado al Natural",
+      "Conserva de Atun Desmenuzado al Natural",
       "227,76"
     ],
     [
@@ -2729,12 +2729,12 @@
     ],
     [
       "7791118004358",
-      "Café Capuchino Primer Precio 125 gr",
+      "Cafe Capuchino Primer Precio 125 gr",
       "414,96"
     ],
     [
       "7790320600709",
-      "Café En Saquitos Primer Precio 20 un",
+      "Cafe En Saquitos Primer Precio 20 un",
       "403,82"
     ],
     [
@@ -2784,7 +2784,7 @@
     ],
     [
       "7792198006508",
-      "Té Mezcla Hierbas Primer Precio 25 un",
+      "Te Mezcla Hierbas Primer Precio 25 un",
       "136,29"
     ],
     [
@@ -2809,7 +2809,7 @@
     ],
     [
       "7791720026434",
-      "Jugo de Limón Pet Carrefour 500 Ml",
+      "Jugo de Limon Pet Carrefour 500 Ml",
       "155"
     ],
     [
@@ -2819,12 +2819,12 @@
     ],
     [
       "7798130880298",
-      "Papel Higiénico Hoja Simple Blanco Tex 30 metros Primer Precio 4 un",
+      "Papel Higienico Hoja Simple Blanco Tex 30 metros Primer Precio 4 un",
       "310,96"
     ],
     [
       "7798130880632",
-      "Papel Higiénico Texturado 30 Metros Primer Precio 6 un",
+      "Papel Higienico Texturado 30 Metros Primer Precio 6 un",
       "414,96"
     ],
     [
@@ -2834,7 +2834,7 @@
     ],
     [
       "7798083817693",
-      "Jabón Líquido para Ropa Doypack Primer Precio 800 Ml",
+      "Jabon Liquido para Ropa Doypack Primer Precio 800 Ml",
       "198,17"
     ],
     [
@@ -2844,7 +2844,7 @@
     ],
     [
       "7798083817624",
-      "Suavizante para Ropa Clásico Doypack Primer Precio 900 Ml",
+      "Suavizante para Ropa Clasico Doypack Primer Precio 900 Ml",
       "145,44"
     ],
     [
@@ -2879,7 +2879,7 @@
     ],
     [
       "7790940235466",
-      "Toallas Higiénicas p/Menstruantes Pocket 1 un",
+      "Toallas Higienicas p/Menstruantes Pocket 1 un",
       "206,96"
     ],
     [
@@ -2889,17 +2889,17 @@
     ],
     [
       "7791905003861",
-      "Jabón Líquido para Ropa Líquido para Ropa Doypack Netic 800 ml",
+      "Jabon Liquido para Ropa Liquido para Ropa Doypack Netic 800 ml",
       "217,36"
     ],
     [
       "7791905024736",
-      "Lavandina Común Odex 1000 ml",
+      "Lavandina Comun Odex 1000 ml",
       "92,56"
     ],
     [
       "7791905024743",
-      "Lavandina Común Odex 2000 ml",
+      "Lavandina Comun Odex 2000 ml",
       "165,36"
     ],
     [
@@ -2909,7 +2909,7 @@
     ],
     [
       "7791905022862",
-      "Jabón Líquido p/ Manos Violet Doypack Polyana 220 Ml",
+      "Jabon Liquido p/ Manos Violet Doypack Polyana 220 Ml",
       "174,2"
     ],
     [
@@ -2954,12 +2954,12 @@
     ],
     [
       "7791905022848",
-      "Jabón Líquido p/ Manos Pink Doypack Polyana 220 Ml",
+      "Jabon Liquido p/ Manos Pink Doypack Polyana 220 Ml",
       "174,2"
     ],
     [
       "7791905023012",
-      "Jabón Líquido p/ Manos Verbena Doypack Polyana 220 Ml",
+      "Jabon Liquido p/ Manos Verbena Doypack Polyana 220 Ml",
       "174,2"
     ],
     [
@@ -2994,12 +2994,12 @@
     ],
     [
       "7791905023074",
-      "Acondicionador Hidratación doypack Polyana 300 ml",
+      "Acondicionador Hidratacion doypack Polyana 300 ml",
       "156"
     ],
     [
       "7791905023067",
-      "Acondicionador Nutrición doypack Polyana 300 ml",
+      "Acondicionador Nutricion doypack Polyana 300 ml",
       "156"
     ],
     [
@@ -3009,7 +3009,7 @@
     ],
     [
       "7791905023340",
-      "Shampoo Hidratación Swing 400 Ml",
+      "Shampoo Hidratacion Swing 400 Ml",
       "465,16"
     ],
     [
@@ -3019,7 +3019,7 @@
     ],
     [
       "7791905023326",
-      "Shampoo Reparación Swing 400 Ml",
+      "Shampoo Reparacion Swing 400 Ml",
       "458,09"
     ],
     [
@@ -3029,7 +3029,7 @@
     ],
     [
       "7791905023449",
-      "Acondicionador Hidratación Swing 400 Ml",
+      "Acondicionador Hidratacion Swing 400 Ml",
       "458,54"
     ],
     [
@@ -3039,7 +3039,7 @@
     ],
     [
       "7791905023456",
-      "Acondicionador Reparación Swing 400 Ml",
+      "Acondicionador Reparacion Swing 400 Ml",
       "487,76"
     ],
     [
@@ -3074,12 +3074,12 @@
     ],
     [
       "7798141971527",
-      "Azúcar Común Tipo A Bonanza 1000 gr",
+      "Azucar Comun Tipo A Bonanza 1000 gr",
       "219"
     ],
     [
       "7798138553408",
-      "Puré de Tomate Tetrapack Molto 340 gr",
+      "Pure de Tomate Tetrapack Molto 340 gr",
       "135,2"
     ],
     [
@@ -3104,12 +3104,12 @@
     ],
     [
       "7791130962810",
-      "Limpiador Líquido Antigrasa Citrus Procenex 900 ml",
+      "Limpiador Liquido Antigrasa Citrus Procenex 900 ml",
       "170,99"
     ],
     [
       "7791130962803",
-      "Limpiador Líquido Antigrasa Lima Procenex 900 ml",
+      "Limpiador Liquido Antigrasa Lima Procenex 900 ml",
       "170,99"
     ],
     [
@@ -3139,57 +3139,57 @@
     ],
     [
       "7791130962247",
-      "Limpiador Desinfectante para Pisos Limón Lysol 1800 ml",
+      "Limpiador Desinfectante para Pisos Limon Lysol 1800 ml",
       "402,48"
     ],
     [
       "7798339190099",
-      "Jabón en Pan Exfoliante Espadol 80 gr",
+      "Jabon en Pan Exfoliante Espadol 80 gr",
       "200,72"
     ],
     [
       "7791720003886",
-      "Conserva de Atún Desmenuzado al Natural Bulnez 170 gr",
+      "Conserva de Atun Desmenuzado al Natural Bulnez 170 gr",
       "159"
     ],
     [
       "7791720003862",
-      "Conserva de Atún Desmenuzado En Aceite Bulnez 170 gr",
+      "Conserva de Atun Desmenuzado En Aceite Bulnez 170 gr",
       "159"
     ],
     [
       "7798033333907",
-      "Conserva de Atún Lomitos al Natural Carrefour 170 gr",
+      "Conserva de Atun Lomitos al Natural Carrefour 170 gr",
       "269"
     ],
     [
       "7798033333891",
-      "Conserva de Atún Lomitos en Aceite Carrefour 170 gr",
+      "Conserva de Atun Lomitos en Aceite Carrefour 170 gr",
       "269"
     ],
     [
       "7798108349161",
-      "Conserva de Atún Lomitos al Natural Carrefour 354 gr",
+      "Conserva de Atun Lomitos al Natural Carrefour 354 gr",
       "489"
     ],
     [
       "7798108349178",
-      "Conserva de Atún Lomitos en Aceite Carrefour 354 gr",
+      "Conserva de Atun Lomitos en Aceite Carrefour 354 gr",
       "489"
     ],
     [
       "7798152222151",
-      "Conserva de Atún Lomitos al Natural Carrefour 240 gr",
+      "Conserva de Atun Lomitos al Natural Carrefour 240 gr",
       "429"
     ],
     [
       "7798152222168",
-      "Conserva de Atún Lomitos en aceite Carrefour 240 gr",
+      "Conserva de Atun Lomitos en aceite Carrefour 240 gr",
       "429"
     ],
     [
       "7798152222175",
-      "Conserva de Atún Lomitos en aceite de oliva Carrefour 240 gr",
+      "Conserva de Atun Lomitos en aceite de oliva Carrefour 240 gr",
       "429"
     ],
     [
@@ -3279,72 +3279,72 @@
     ],
     [
       "7791720023969",
-      "Capsulas de Café Latte Carrefour 16 un",
+      "Capsulas de Cafe Latte Carrefour 16 un",
       "999"
     ],
     [
       "7791720023938",
-      "Capsulas de Café Cortado Carrefour 16 un",
+      "Capsulas de Cafe Cortado Carrefour 16 un",
       "999"
     ],
     [
       "7791720023921",
-      "Capsulas de Café Clásico Carrefour 16 un",
+      "Capsulas de Cafe Clasico Carrefour 16 un",
       "999"
     ],
     [
       "7791720023907",
-      "Capsulas de Café Cappuccino Carrefour 16 un",
+      "Capsulas de Cafe Cappuccino Carrefour 16 un",
       "999"
     ],
     [
       "7791720023914",
-      "Capsulas de Café De Chocolate Carrefour 16 un",
+      "Capsulas de Cafe De Chocolate Carrefour 16 un",
       "999"
     ],
     [
       "7791720023952",
-      "Capsulas de Café Intenso Carrefour 16 un",
+      "Capsulas de Cafe Intenso Carrefour 16 un",
       "999"
     ],
     [
       "7791720023891",
-      "Capsulas de Café Arábica Carrefour 16 un",
+      "Capsulas de Cafe Arabica Carrefour 16 un",
       "999"
     ],
     [
       "7791720023945",
-      "Capsulas de Café Descafeinado Carrefour 16 un",
+      "Capsulas de Cafe Descafeinado Carrefour 16 un",
       "999"
     ],
     [
       "7791720003237",
-      "Capsulas de Café Intenso Carrefour 10 un",
+      "Capsulas de Cafe Intenso Carrefour 10 un",
       "665"
     ],
     [
       "7791720003244",
-      "Capsulas de Café Supremo Carrefour 10 un",
+      "Capsulas de Cafe Supremo Carrefour 10 un",
       "665"
     ],
     [
       "7791720003220",
-      "Capsulas de Café Clásico Selectión Carrefour 10 un",
+      "Capsulas de Cafe Clasico Selection Carrefour 10 un",
       "665"
     ],
     [
       "7791720003251",
-      "Capsulas de Café Descafeinado Carrefour 10 un",
+      "Capsulas de Cafe Descafeinado Carrefour 10 un",
       "619"
     ],
     [
       "7791720019085",
-      "Capsulas de Café Supremo Carrefour Selection 20 un",
+      "Capsulas de Cafe Supremo Carrefour Selection 20 un",
       "1,129,00"
     ],
     [
       "7791720019092",
-      "Capsulas de Café Intenso Carrefour Selection 20 un",
+      "Capsulas de Cafe Intenso Carrefour Selection 20 un",
       "1,129,00"
     ],
     [
@@ -3419,7 +3419,7 @@
     ],
     [
       "7798033337264",
-      "Oblea Rellena de Limón Carrefour 100 gr",
+      "Oblea Rellena de Limon Carrefour 100 gr",
       "109"
     ],
     [
@@ -3484,7 +3484,7 @@
     ],
     [
       "7791720025918",
-      "Gaseosa Tónica triple 0 Carrefour 2250 ml",
+      "Gaseosa Tonica triple 0 Carrefour 2250 ml",
       "165"
     ],
     [
@@ -3514,52 +3514,52 @@
     ],
     [
       "7798033332290",
-      "Harina de Maíz Carrefour 1000 gr",
+      "Harina de Maiz Carrefour 1000 gr",
       "165"
     ],
     [
       "7791720023624",
-      "Bebida Isotónica Blueberry Carrefour 750 cc",
+      "Bebida Isotonica Blueberry Carrefour 750 cc",
       "121"
     ],
     [
       "7791720023600",
-      "Bebida Isotónica Frutas tropicales Carrefour 750 cc",
+      "Bebida Isotonica Frutas tropicales Carrefour 750 cc",
       "121"
     ],
     [
       "7791720023617",
-      "Bebida Isotónica Manzana Carrefour 750 cc",
+      "Bebida Isotonica Manzana Carrefour 750 cc",
       "121"
     ],
     [
       "7791720024119",
-      "Bebida Isotónica Blueberry Cero Carrefour 750 cc",
+      "Bebida Isotonica Blueberry Cero Carrefour 750 cc",
       "121"
     ],
     [
       "7791720024102",
-      "Bebida Isotónica Manzana Cero Carrefour 750 cc",
+      "Bebida Isotonica Manzana Cero Carrefour 750 cc",
       "121"
     ],
     [
       "7791720023594",
-      "Bebida Isotónica Naranja Carrefour 750 cc",
+      "Bebida Isotonica Naranja Carrefour 750 cc",
       "121"
     ],
     [
       "7791720024133",
-      "Bebida Isotónica Frutas tropicales Cero Carrefour 750 cc",
+      "Bebida Isotonica Frutas tropicales Cero Carrefour 750 cc",
       "121"
     ],
     [
       "7791720024126",
-      "Bebida Isotónica Naranja Cero Carrefour 750 cc",
+      "Bebida Isotonica Naranja Cero Carrefour 750 cc",
       "121"
     ],
     [
       "7798141718351",
-      "Jabón de Tocador Tricolor 3 Un Carrefour 270 gr",
+      "Jabon de Tocador Tricolor 3 Un Carrefour 270 gr",
       "187"
     ],
     [
@@ -3644,7 +3644,7 @@
     ],
     [
       "7798033332412",
-      "Limpiador Liquido Limón Botella Carrefour 900 cc",
+      "Limpiador Liquido Limon Botella Carrefour 900 cc",
       "121"
     ],
     [
@@ -3659,7 +3659,7 @@
     ],
     [
       "7791720026731",
-      "Máquina Para Afeitar 2 Filos Soft Carrefour 3 un",
+      "Maquina Para Afeitar 2 Filos Soft Carrefour 3 un",
       "389"
     ],
     [
@@ -3724,7 +3724,7 @@
     ],
     [
       "7798152222182",
-      "Pate de Atún Carrefour 80 gr",
+      "Pate de Atun Carrefour 80 gr",
       "159"
     ],
     [
@@ -3744,12 +3744,12 @@
     ],
     [
       "7798033339572",
-      "Harina de Maíz Instantanea Carrefour 500 gr",
+      "Harina de Maiz Instantanea Carrefour 500 gr",
       "77"
     ],
     [
       "7791720016152",
-      "Puré de Papas Carrefour 100 gr",
+      "Pure de Papas Carrefour 100 gr",
       "129"
     ],
     [
@@ -3764,12 +3764,12 @@
     ],
     [
       "7798108345804",
-      "Ravioles Carne y Jamón Carrefour 500 gr",
+      "Ravioles Carne y Jamon Carrefour 500 gr",
       "249"
     ],
     [
       "7791720024157",
-      "Repelente Spray Extra Duración Carrefour 200 cc",
+      "Repelente Spray Extra Duracion Carrefour 200 cc",
       "519"
     ],
     [
@@ -3804,7 +3804,7 @@
     ],
     [
       "7798159717599",
-      "Suavizante para Ropa Clásico Doypack Carrefour 900 cc",
+      "Suavizante para Ropa Clasico Doypack Carrefour 900 cc",
       "189"
     ],
     [
@@ -3829,7 +3829,7 @@
     ],
     [
       "7798159717490",
-      "Tostadas Gruesas Clásicas Carrefour 200 gr",
+      "Tostadas Gruesas Clasicas Carrefour 200 gr",
       "205"
     ],
     [
@@ -3844,12 +3844,12 @@
     ],
     [
       "7798159718404",
-      "Tostadas Gruesas Clásicas con Fibras Carrefour 180 gr",
+      "Tostadas Gruesas Clasicas con Fibras Carrefour 180 gr",
       "195"
     ],
     [
       "7798159718398",
-      "Tostadas Gruesas Clásicas con Gluten Carrefour 180 gr",
+      "Tostadas Gruesas Clasicas con Gluten Carrefour 180 gr",
       "195"
     ],
     [
@@ -3859,7 +3859,7 @@
     ],
     [
       "7798159718381",
-      "Tostadas Gruesas Clásicas con Sal Carrefour 180 gr",
+      "Tostadas Gruesas Clasicas con Sal Carrefour 180 gr",
       "195"
     ],
     [
@@ -3974,7 +3974,7 @@
     ],
     [
       "7500435004718",
-      "Jabón Líquido para Ropa Botella Ace 800 ml",
+      "Jabon Liquido para Ropa Botella Ace 800 ml",
       "264,59"
     ],
     [
@@ -3984,7 +3984,7 @@
     ],
     [
       "7500435203111",
-      "Lavavajillas Limón Cremoso Magistral 500 ml",
+      "Lavavajillas Limon Cremoso Magistral 500 ml",
       "476,32"
     ],
     [
@@ -4014,12 +4014,12 @@
     ],
     [
       "7500435168229",
-      "Acondicionador Cuidado Clásico Pantene 400 ml",
+      "Acondicionador Cuidado Clasico Pantene 400 ml",
       "439,72"
     ],
     [
       "7500435160674",
-      "Máquina Para Afeitar Prestobarba Azul Gillette 5 un",
+      "Maquina Para Afeitar Prestobarba Azul Gillette 5 un",
       "467,25"
     ],
     [
@@ -4034,7 +4034,7 @@
     ],
     [
       "7500435172127",
-      "Shampoo Cuidado Clásico Pantene 400 ml",
+      "Shampoo Cuidado Clasico Pantene 400 ml",
       "439,72"
     ],
     [
@@ -4044,12 +4044,12 @@
     ],
     [
       "7500435193078",
-      "Toallitas Higiénicas p/Menstruantes Triple Protección Suave Always 8 un",
+      "Toallitas Higienicas p/Menstruantes Triple Proteccion Suave Always 8 un",
       "245,55"
     ],
     [
       "7500435193146",
-      "Toallitas Higiénicas p/Menstruantes Plus Seca con Alas Always 8 un",
+      "Toallitas Higienicas p/Menstruantes Plus Seca con Alas Always 8 un",
       "207,82"
     ],
     [
@@ -4074,7 +4074,7 @@
     ],
     [
       "7793890001044",
-      "Pan de Hamburguesas Con Sésamo x4 Unidades Fargo 210 gr",
+      "Pan de Hamburguesas Con Sesamo x4 Unidades Fargo 210 gr",
       "174,25"
     ],
     [
@@ -4139,12 +4139,12 @@
     ],
     [
       "7793890256659",
-      "Budín Vainilla relleno de Dulce de Leche Bimbo 220 gr",
+      "Budin Vainilla relleno de Dulce de Leche Bimbo 220 gr",
       "291,2"
     ],
     [
       "7793890251432",
-      "Pan de Molde Semillado Chía y Lino Lactal 350 gr",
+      "Pan de Molde Semillado Chia y Lino Lactal 350 gr",
       "243,4"
     ],
     [
@@ -4159,7 +4159,7 @@
     ],
     [
       "7793890256642",
-      "Budín Marmolado FLOW Bimbo 170 gr",
+      "Budin Marmolado FLOW Bimbo 170 gr",
       "270,4"
     ],
     [
@@ -4169,7 +4169,7 @@
     ],
     [
       "7793890256628",
-      "Budín Vainilla Bimbo 170 gr",
+      "Budin Vainilla Bimbo 170 gr",
       "270,4"
     ],
     [
@@ -4179,7 +4179,7 @@
     ],
     [
       "7500435168304",
-      "Acondicionador Fuerza Reconstrucción Pro-V Essent Pantene 750 Ml",
+      "Acondicionador Fuerza Reconstruccion Pro-V Essent Pantene 750 Ml",
       "1,530,12"
     ],
     [
@@ -4189,7 +4189,7 @@
     ],
     [
       "3014260274917",
-      "Máquina Para Afeitar Turbo Mach3 Gillette 4 un",
+      "Maquina Para Afeitar Turbo Mach3 Gillette 4 un",
       "2,167,09"
     ],
     [
@@ -4199,7 +4199,7 @@
     ],
     [
       "7501086494262",
-      "Cepillo Dental Indicator Clásico Oral-B 1 un",
+      "Cepillo Dental Indicator Clasico Oral-B 1 un",
       "348,5"
     ],
     [
@@ -4214,32 +4214,32 @@
     ],
     [
       "7500435215251",
-      "Jabón Líquido para Ropa Delicados Ariel 800 Ml",
+      "Jabon Liquido para Ropa Delicados Ariel 800 Ml",
       "798,17"
     ],
     [
       "7500435215275",
-      "Jabón Líquido para Ropa Radiante Ariel 800 Ml",
+      "Jabon Liquido para Ropa Radiante Ariel 800 Ml",
       "798,17"
     ],
     [
       "7500435187831",
-      "Máquina Para Afeitar Cool Prestobarba 3 Ice Gillette 4 un",
+      "Maquina Para Afeitar Cool Prestobarba 3 Ice Gillette 4 un",
       "1,167,48"
     ],
     [
       "7500435187848",
-      "Máquina Para Afeitar Cool Prestobarba Gillette 8 un",
+      "Maquina Para Afeitar Cool Prestobarba Gillette 8 un",
       "1,936,84"
     ],
     [
       "7500435187855",
-      "Máquina Para Afeitar Cool Comfort Fresh Gillette 2 un",
+      "Maquina Para Afeitar Cool Comfort Fresh Gillette 2 un",
       "646,05"
     ],
     [
       "7500435191760",
-      "Máquina Para Afeitar Cartuchos Afeitar Skin Protect Sensitive Venus 2 un",
+      "Maquina Para Afeitar Cartuchos Afeitar Skin Protect Sensitive Venus 2 un",
       "864,31"
     ],
     [
@@ -4254,12 +4254,12 @@
     ],
     [
       "7500435178921",
-      "Toallas Higiénicas p/Menstruantes Proteccion Dual Seca Always 8 un",
+      "Toallas Higienicas p/Menstruantes Proteccion Dual Seca Always 8 un",
       "336,36"
     ],
     [
       "7500435168489",
-      "Shampoo Fuerza Reconstrucción Pro-V Essent Pantene 750 cc",
+      "Shampoo Fuerza Reconstruccion Pro-V Essent Pantene 750 cc",
       "1,530,12"
     ],
     [
@@ -4269,12 +4269,12 @@
     ],
     [
       "7500435178914",
-      "Toallas Higiénicas p/Menstruantes Triple Protección Noche Seca Always 8 un",
+      "Toallas Higienicas p/Menstruantes Triple Proteccion Noche Seca Always 8 un",
       "656"
     ],
     [
       "7500435178853",
-      "Toallas Higiénicas p/Menstruantes Triple Protección Dia Seca Always 8 un",
+      "Toallas Higienicas p/Menstruantes Triple Proteccion Dia Seca Always 8 un",
       "479,43"
     ],
     [
@@ -4324,42 +4324,42 @@
     ],
     [
       "7798143072266",
-      "Papel Higiénico Ph Sh 12X30Mt Check 12 un",
+      "Papel Higienico Ph Sh 12X30Mt Check 12 un",
       "966,02"
     ],
     [
       "7798153718482",
-      "Papel Higiénico Hoja Simple 30 mt Great Value 6 un",
+      "Papel Higienico Hoja Simple 30 mt Great Value 6 un",
       "496,57"
     ],
     [
       "7798153718400",
-      "Papel Higiénico Hoja Simple x 320 Mt Equate 4 un",
+      "Papel Higienico Hoja Simple x 320 Mt Equate 4 un",
       "666,6"
     ],
     [
       "7798153714671",
-      "Papel Higiénico Ph Sh 6X80Mt Check 6 un",
+      "Papel Higienico Ph Sh 6X80Mt Check 6 un",
       "1,040,82"
     ],
     [
       "7798270248394",
-      "Papel Higiénico Ph Sh 4X30 Check 4 un",
+      "Papel Higienico Ph Sh 4X30 Check 4 un",
       "304,1"
     ],
     [
       "7798270240125",
-      "Papel Higiénico Ph Dh 6X30Mt Check 6 un",
+      "Papel Higienico Ph Dh 6X30Mt Check 6 un",
       "727,68"
     ],
     [
       "7798153710082",
-      "Papel Higiénico Ph Dh 4X30Mt Check 4 un",
+      "Papel Higienico Ph Dh 4X30Mt Check 4 un",
       "469,65"
     ],
     [
       "7798270244626",
-      "Papel Higiénico Simple Hoja 4x30 mt Aliada",
+      "Papel Higienico Simple Hoja 4x30 mt Aliada",
       "227,64"
     ],
     [
@@ -4404,7 +4404,7 @@
     ],
     [
       "7799120000409",
-      "Azúcar Comun Tipo A Check 1000 gr",
+      "Azucar Comun Tipo A Check 1000 gr",
       "247,32"
     ],
     [
@@ -4474,52 +4474,52 @@
     ],
     [
       "6930697115511",
-      "Toallitas Húmedas Recien Nac Piel Sens Parents Choice 80 un",
+      "Toallitas Humedas Recien Nac Piel Sens Parents Choice 80 un",
       "754,89"
     ],
     [
       "7799120001073",
-      "Toallitas Húmedas Recien Nacido Soul 80 un",
+      "Toallitas Humedas Recien Nacido Soul 80 un",
       "830,49"
     ],
     [
       "6930697115520",
-      "Toallitas Húmedas Hum Con Aceite De Emu Parents Choice 80 un",
+      "Toallitas Humedas Hum Con Aceite De Emu Parents Choice 80 un",
       "646,9"
     ],
     [
       "7799120001082",
-      "Toallitas Húmedas Aceite de Emu Soul 80 un",
+      "Toallitas Humedas Aceite de Emu Soul 80 un",
       "711,7"
     ],
     [
       "6930697115539",
-      "Toallitas Húmedas Hum Con Aloe & Vit E Parents Choice 50 un",
+      "Toallitas Humedas Hum Con Aloe & Vit E Parents Choice 50 un",
       "376,91"
     ],
     [
       "7799120001091",
-      "Toallitas Húmedas Con Aloevera Soul 50 un",
+      "Toallitas Humedas Con Aloevera Soul 50 un",
       "415,79"
     ],
     [
       "7798270248914",
-      "Toallitas Húmedas Animales Fantastico Parents Choice 45 un",
+      "Toallitas Humedas Animales Fantastico Parents Choice 45 un",
       "409,31"
     ],
     [
       "7799120001107",
-      "Toallitas Húmedas Animales Fantasticos Soul 45 un",
+      "Toallitas Humedas Animales Fantasticos Soul 45 un",
       "448,19"
     ],
     [
       "400006585703",
-      "Toallitas Húmedas Hum Monstruos Parents Choice 20 un",
+      "Toallitas Humedas Hum Monstruos Parents Choice 20 un",
       "117,72"
     ],
     [
       "400006585660",
-      "Toallitas Húmedas Biodegradable Ninos Parents Choice 20 un",
+      "Toallitas Humedas Biodegradable Ninos Parents Choice 20 un",
       "106,92"
     ],
     [
@@ -4614,52 +4614,52 @@
     ],
     [
       "7798270249463",
-      "Toallitas Húmedas Antibacteriales Equate 20 un",
+      "Toallitas Humedas Antibacteriales Equate 20 un",
       "106,92"
     ],
     [
       "7798270247845",
-      "Café Instantaneo Liofilizado Great Value 170 gr",
+      "Cafe Instantaneo Liofilizado Great Value 170 gr",
       "938,5"
     ],
     [
       "681131410331",
-      "Ananá En rodajas Great Value 836 gr",
+      "Anana En rodajas Great Value 836 gr",
       "377,99"
     ],
     [
       "681131410410",
-      "Ananá Ananá en Trozos Great Value 836 gr",
+      "Anana Anana en Trozos Great Value 836 gr",
       "340,19"
     ],
     [
       "7798123130997",
-      "Ananá Ananá en Trozos Great Value 565 gr",
+      "Anana Anana en Trozos Great Value 565 gr",
       "244,07"
     ],
     [
       "7798105589366",
-      "Ananá En rodajas Great Value 565 gr",
+      "Anana En rodajas Great Value 565 gr",
       "264,59"
     ],
     [
       "7799120000791",
-      "Ananá En Rodaja Check 836 gr",
+      "Anana En Rodaja Check 836 gr",
       "377,99"
     ],
     [
       "7799120000807",
-      "Ananá En Trozos Check 836 gr",
+      "Anana En Trozos Check 836 gr",
       "340,19"
     ],
     [
       "7799120000816",
-      "Ananá En Trozos Check 565 gr",
+      "Anana En Trozos Check 565 gr",
       "244,07"
     ],
     [
       "7799120000825",
-      "Ananá En Rodaja Check 565 gr",
+      "Anana En Rodaja Check 565 gr",
       "264,59"
     ],
     [
@@ -4674,42 +4674,42 @@
     ],
     [
       "7798270245227",
-      "Conserva de Atún Desmenuzado al Natural Acuenta 170 gr",
+      "Conserva de Atun Desmenuzado al Natural Acuenta 170 gr",
       "174,95"
     ],
     [
       "7798270245218",
-      "Conserva de Atún Desmenuzado en Aceite Acuenta 170 gr",
+      "Conserva de Atun Desmenuzado en Aceite Acuenta 170 gr",
       "174,95"
     ],
     [
       "7799120000852",
-      "Conserva de Atún Desmenuzado En Aceite Aliada 170 gr",
+      "Conserva de Atun Desmenuzado En Aceite Aliada 170 gr",
       "225,72"
     ],
     [
       "7799120000861",
-      "Conserva de Atún Desmenuzado al Natural Aliada 170 gr",
+      "Conserva de Atun Desmenuzado al Natural Aliada 170 gr",
       "225,72"
     ],
     [
       "7799120000870",
-      "Conserva de Atún Lomito en Aceite Check 170 gr",
+      "Conserva de Atun Lomito en Aceite Check 170 gr",
       "322,92"
     ],
     [
       "7799120000889",
-      "Conserva de Atún Lomitos al Natural Check 170 gr",
+      "Conserva de Atun Lomitos al Natural Check 170 gr",
       "322,92"
     ],
     [
       "7798270241726",
-      "Conserva de Atún Lomito en Aceite Great Value 170 gr",
+      "Conserva de Atun Lomito en Aceite Great Value 170 gr",
       "279,68"
     ],
     [
       "7798270241717",
-      "Conserva de Atún Lomitos al Natural Great Value 170 gr",
+      "Conserva de Atun Lomitos al Natural Great Value 170 gr",
       "279,68"
     ],
     [
@@ -4779,7 +4779,7 @@
     ],
     [
       "7790279000094",
-      "Maíz Pisingallo Ramoneda 500 gr",
+      "Maiz Pisingallo Ramoneda 500 gr",
       "178,8"
     ],
     [
@@ -4799,7 +4799,7 @@
     ],
     [
       "7790740503727",
-      "Jabón Líquido p/ Manos Balance Botella Plusbelle 250 ml",
+      "Jabon Liquido p/ Manos Balance Botella Plusbelle 250 ml",
       "312"
     ],
     [
@@ -4819,7 +4819,7 @@
     ],
     [
       "7790940003089",
-      "Algodón Hidrofilo clasico Doncella 300 gr",
+      "Algodon Hidrofilo clasico Doncella 300 gr",
       "613,6"
     ],
     [
@@ -4829,7 +4829,7 @@
     ],
     [
       "7798065734314",
-      "Soda Sifón Sierra de los Padres 1750 ml",
+      "Soda Sifon Sierra de los Padres 1750 ml",
       "187,2"
     ],
     [
@@ -4894,7 +4894,7 @@
     ],
     [
       "7791813421580",
-      "Gaseosa Lima Limón Free 7up 1500 ml",
+      "Gaseosa Lima Limon Free 7up 1500 ml",
       "183,98"
     ],
     [
@@ -4904,12 +4904,12 @@
     ],
     [
       "7792798000395",
-      "Cerveza Porrón Retornable Brahma 340 cc",
+      "Cerveza Porron Retornable Brahma 340 cc",
       "57,15"
     ],
     [
       "7791813421238",
-      "Agua Saborizada Lima Limón H2Oh! 1500 ml",
+      "Agua Saborizada Lima Limon H2Oh! 1500 ml",
       "156,74"
     ],
     [
@@ -4919,7 +4919,7 @@
     ],
     [
       "7792798011087",
-      "Cerveza Porrón Retornable Quilmes 340 cc",
+      "Cerveza Porron Retornable Quilmes 340 cc",
       "59,18"
     ],
     [
@@ -4944,17 +4944,17 @@
     ],
     [
       "7792798010974",
-      "Agua Saborizada sin Gas Manzana sin Azúcar Awafrut 2250 ml",
+      "Agua Saborizada sin Gas Manzana sin Azucar Awafrut 2250 ml",
       "297,37"
     ],
     [
       "7791813423584",
-      "Agua Saborizada Lima Limón con Gas H2Oh! 2250 ml",
+      "Agua Saborizada Lima Limon con Gas H2Oh! 2250 ml",
       "333,96"
     ],
     [
       "7792798000470",
-      "Gaseosa Guaraná Guarana Antártica 1500 ml",
+      "Gaseosa Guarana Guarana Antartica 1500 ml",
       "189,29"
     ],
     [
@@ -4969,17 +4969,17 @@
     ],
     [
       "7792798010998",
-      "Agua Saborizada sin Gas Naranja Durazno sin Azúcar Awafrut 2250 ml",
+      "Agua Saborizada sin Gas Naranja Durazno sin Azucar Awafrut 2250 ml",
       "296,94"
     ],
     [
       "7792170110551",
-      "Bebida Isotónica Naranja Gatorade 1250 ml",
+      "Bebida Isotonica Naranja Gatorade 1250 ml",
       "357,06"
     ],
     [
       "7792170052295",
-      "Bebida Isotónica Frutas Tropicales Gatorade 750 cc",
+      "Bebida Isotonica Frutas Tropicales Gatorade 750 cc",
       "247,09"
     ],
     [
@@ -4989,17 +4989,17 @@
     ],
     [
       "7790639001969",
-      "Agua de mesa de mesa Córdoba 2000 ml",
+      "Agua de mesa de mesa Cordoba 2000 ml",
       "84,06"
     ],
     [
       "7790639002010",
-      "Gaseosa Cola sin azúcar Cunnington 1500 ml",
+      "Gaseosa Cola sin azucar Cunnington 1500 ml",
       "164,37"
     ],
     [
       "7790639003024",
-      "Gaseosa Cola Sin Azúcar Cunnington 3000 ml",
+      "Gaseosa Cola Sin Azucar Cunnington 3000 ml",
       "250,61"
     ],
     [
@@ -5064,7 +5064,7 @@
     ],
     [
       "7791109623544",
-      "Premezcla Panadería Repostería sin TACC S/L Sin Marca 1 un",
+      "Premezcla Panaderia Reposteria sin TACC S/L Sin Marca 1 un",
       "449,9"
     ],
     [
@@ -5159,7 +5159,7 @@
     ],
     [
       "7791109623810",
-      "Endulzante Stevia Líquida Taeq 200 Ml",
+      "Endulzante Stevia Liquida Taeq 200 Ml",
       "434,71"
     ],
     [
@@ -5189,7 +5189,7 @@
     ],
     [
       "7791109625289",
-      "Medallones De Yamaní Taeq 1 un",
+      "Medallones De Yamani Taeq 1 un",
       "426,39"
     ],
     [
@@ -5239,17 +5239,17 @@
     ],
     [
       "7791109623803",
-      "Endulzante Stevia Líquida Taeq 100 Ml",
+      "Endulzante Stevia Liquida Taeq 100 Ml",
       "285,99"
     ],
     [
       "7791109623346",
-      "Conserva de Pescado Lomitos de Atún en Aceite y Agua Leader Price 170 gr",
+      "Conserva de Pescado Lomitos de Atun en Aceite y Agua Leader Price 170 gr",
       "285,99"
     ],
     [
       "7791109623339",
-      "Conserva de Pescado Lomitos de Atún al Natural Leader Price 170 gr",
+      "Conserva de Pescado Lomitos de Atun al Natural Leader Price 170 gr",
       "285,99"
     ],
     [
@@ -5259,12 +5259,12 @@
     ],
     [
       "7791109623360",
-      "Conserva de Atún Desmenuzado en Aceite y Agua Lp 1 un",
+      "Conserva de Atun Desmenuzado en Aceite y Agua Lp 1 un",
       "155,99"
     ],
     [
       "7791109623353",
-      "Conserva de Atún Desmenuzado al Natural Lp 1 un",
+      "Conserva de Atun Desmenuzado al Natural Lp 1 un",
       "155,99"
     ],
     [
@@ -5274,12 +5274,12 @@
     ],
     [
       "7791109624886",
-      "Condimentos y Especias Hindú Taeq 1 un",
+      "Condimentos y Especias Hindu Taeq 1 un",
       "170,55"
     ],
     [
       "7791109624879",
-      "Condimentos y Especias Mediterránea Taeq 1 un",
+      "Condimentos y Especias Mediterranea Taeq 1 un",
       "170,55"
     ],
     [
@@ -5474,32 +5474,32 @@
     ],
     [
       "7791109628525",
-      "Conserva de Atún SEC. S/SAL TAEQ 170 gr",
+      "Conserva de Atun SEC. S/SAL TAEQ 170 gr",
       "599,04"
     ],
     [
       "7791109628501",
-      "Conserva de Atún AC.OLIVA TAEQ 170 gr",
+      "Conserva de Atun AC.OLIVA TAEQ 170 gr",
       "551,2"
     ],
     [
       "7791109627092",
-      "Conserva de Atún AL NATURAL TAEQ 240 gr",
+      "Conserva de Atun AL NATURAL TAEQ 240 gr",
       "956,8"
     ],
     [
       "7791109628556",
-      "Conserva de Atún AC.OLIVA TAEQ 240 gr",
+      "Conserva de Atun AC.OLIVA TAEQ 240 gr",
       "1.133,60"
     ],
     [
       "7791109628549",
-      "Conserva de Atún AL NATURAL TAEQ 240 gr",
+      "Conserva de Atun AL NATURAL TAEQ 240 gr",
       "912,08"
     ],
     [
       "7790940216212",
-      "Toallas Higiénicas p/Menstruantes Pocket Normal C/Alas Duopack Sin Deo Doncella 16 un",
+      "Toallas Higienicas p/Menstruantes Pocket Normal C/Alas Duopack Sin Deo Doncella 16 un",
       "221,56"
     ],
     [
@@ -5514,7 +5514,7 @@
     ],
     [
       "7790940216243",
-      "Toallitas Higiénicas p/Menstruantes Para menstruantes Nocturnas Doncella 8 un",
+      "Toallitas Higienicas p/Menstruantes Para menstruantes Nocturnas Doncella 8 un",
       "188,45"
     ],
     [
@@ -5529,7 +5529,7 @@
     ],
     [
       "8295661012",
-      "Aceto Balsámico de Modena De Nigris 500 Ml",
+      "Aceto Balsamico de Modena De Nigris 500 Ml",
       "328,9"
     ],
     [
@@ -5559,57 +5559,57 @@
     ],
     [
       "2800001754753",
-      "Ananá En Rodajas Ciudad del Lago 567 gr",
+      "Anana En Rodajas Ciudad del Lago 567 gr",
       "496,25"
     ],
     [
       "2800001754746",
-      "Ananá En Trozos Ciudad del Lago 567 gr",
+      "Anana En Trozos Ciudad del Lago 567 gr",
       "450,25"
     ],
     [
       "2800002306661",
-      "Conserva de Atún Aleta Amarilla al natural Coto 185 gr",
+      "Conserva de Atun Aleta Amarilla al natural Coto 185 gr",
       "449,99"
     ],
     [
       "2800002306678",
-      "Conserva de Atún Aleta Amarilla en aceite Coto 185 gr",
+      "Conserva de Atun Aleta Amarilla en aceite Coto 185 gr",
       "449,99"
     ],
     [
       "2800002144775",
-      "Conserva de Atún Claro en Aceite Coto 185 gr",
+      "Conserva de Atun Claro en Aceite Coto 185 gr",
       "578,3"
     ],
     [
       "2800002144744",
-      "Conserva de Atún Claro Natural Coto 185 gr",
+      "Conserva de Atun Claro Natural Coto 185 gr",
       "578,3"
     ],
     [
       "2800002144768",
-      "Conserva de Atún Claro en Aceite De Oliva Coto 185 gr",
+      "Conserva de Atun Claro en Aceite De Oliva Coto 185 gr",
       "620,9"
     ],
     [
       "7804621471453",
-      "Conserva de Atún Lomitos de Atún con Aceite Robinson Crusoe 155 gr",
+      "Conserva de Atun Lomitos de Atun con Aceite Robinson Crusoe 155 gr",
       "451,49"
     ],
     [
       "7804621471446",
-      "Conserva de Atún Lomitos de Atún al Natural Robinson Crusoe 155 gr",
+      "Conserva de Atun Lomitos de Atun al Natural Robinson Crusoe 155 gr",
       "451,49"
     ],
     [
       "7804621471477",
-      "Conserva de Atún Lomitos de Atún con Jugo Robinson Crusoe 155 gr",
+      "Conserva de Atun Lomitos de Atun con Jugo Robinson Crusoe 155 gr",
       "451,49"
     ],
     [
       "7804621471460",
-      "Conserva de Atún Lomitos Atún Sab.Ahuma Robinson Crusoe 155 gr",
+      "Conserva de Atun Lomitos Atun Sab.Ahuma Robinson Crusoe 155 gr",
       "451,49"
     ],
     [
@@ -5619,7 +5619,7 @@
     ],
     [
       "7804621471293",
-      "Conserva de Atún Lomitos de Atún con Aceite de Oliva Robinson Crusoe 130 gr",
+      "Conserva de Atun Lomitos de Atun con Aceite de Oliva Robinson Crusoe 130 gr",
       "478,9"
     ],
     [
@@ -5714,17 +5714,17 @@
     ],
     [
       "5014176001551",
-      "Té Gold Green Lar Akbar 100 gr",
+      "Te Gold Green Lar Akbar 100 gr",
       "261,75"
     ],
     [
       "5014176012724",
-      "Té Pure Ceylon L Akabar 100 gr",
+      "Te Pure Ceylon L Akabar 100 gr",
       "273,25"
     ],
     [
       "5014176002114",
-      "Té Lemon Green Go Akbar 50 gr",
+      "Te Lemon Green Go Akbar 50 gr",
       "200,95"
     ],
     [
@@ -5784,7 +5784,7 @@
     ],
     [
       "8436011779116",
-      "Jamón Serrano Lonchas Nico 100 gr",
+      "Jamon Serrano Lonchas Nico 100 gr",
       "519"
     ],
     [
@@ -5804,7 +5804,7 @@
     ],
     [
       "7792716000025",
-      "Vinos y Espumantes Ananá Fizz La Farruca 720 cc",
+      "Vinos y Espumantes Anana Fizz La Farruca 720 cc",
       "575"
     ],
     [
@@ -5834,12 +5834,12 @@
     ],
     [
       "7798062052510",
-      "Toallas Húmedas p/ Bebé Caléndula y Vitamina E Flowpack Sanicare 50 un",
+      "Toallas Humedas p/ Bebe Calendula y Vitamina E Flowpack Sanicare 50 un",
       "260,8"
     ],
     [
       "7798062051902",
-      "Toallas Húmedas p/ Bebé Avena Flowpack Sanicare 100 un",
+      "Toallas Humedas p/ Bebe Avena Flowpack Sanicare 100 un",
       "476,37"
     ],
     [
@@ -5894,7 +5894,7 @@
     ],
     [
       "7791337003613",
-      "Queso Untable Clásico Casancrem 200 gr",
+      "Queso Untable Clasico Casancrem 200 gr",
       "244,31"
     ],
     [
@@ -5904,7 +5904,7 @@
     ],
     [
       "7791337060500",
-      "Yogur Cremoso Fórmula infantil Danonino 100 gr",
+      "Yogur Cremoso Formula infantil Danonino 100 gr",
       "135,19"
     ],
     [
@@ -5914,37 +5914,37 @@
     ],
     [
       "7791337004450",
-      "Yogur Bebible Sabor Frutilla García 900 ml",
+      "Yogur Bebible Sabor Frutilla Garcia 900 ml",
       "126,94"
     ],
     [
       "7791337004467",
-      "Yogur Bebible Sabor Vainilla García 900 ml",
+      "Yogur Bebible Sabor Vainilla Garcia 900 ml",
       "126,94"
     ],
     [
       "7791337004481",
-      "Yogur Cremoso Infantil Sabor Vainilla García 140 gr",
+      "Yogur Cremoso Infantil Sabor Vainilla Garcia 140 gr",
       "141,76"
     ],
     [
       "7791337004474",
-      "Yogur Cremoso Preformado sabor frutilla García 140 gr",
+      "Yogur Cremoso Preformado sabor frutilla Garcia 140 gr",
       "156,01"
     ],
     [
       "7791337003569",
-      "Yogur Cremoso Descremado Frutilla La Serenísima 120 gr",
+      "Yogur Cremoso Descremado Frutilla La Serenisima 120 gr",
       "59,3"
     ],
     [
       "7791337603219",
-      "Yogur Cremoso Entero Vainilla La Serenísima 120 gr",
+      "Yogur Cremoso Entero Vainilla La Serenisima 120 gr",
       "59,3"
     ],
     [
       "7798062544695",
-      "Agua Saborizada Manzana Levité 1000 ml",
+      "Agua Saborizada Manzana Levite 1000 ml",
       "171,6"
     ],
     [
@@ -5964,7 +5964,7 @@
     ],
     [
       "7791337006041",
-      "Yogur Cremoso Con Probióticos Fortificado Libre De Gluten Ser 140 gr",
+      "Yogur Cremoso Con Probioticos Fortificado Libre De Gluten Ser 140 gr",
       "157,04"
     ],
     [
@@ -5979,12 +5979,12 @@
     ],
     [
       "7791337002272",
-      "Yogur Cremoso Con Colchón de Frutas y Cereales Yogur Ser 158 gr",
+      "Yogur Cremoso Con Colchon de Frutas y Cereales Yogur Ser 158 gr",
       "154,12"
     ],
     [
       "7791337004139",
-      "Yogur Cremoso Entero Natural Yogurísimo 190 gr",
+      "Yogur Cremoso Entero Natural Yogurisimo 190 gr",
       "148,66"
     ],
     [
@@ -5994,12 +5994,12 @@
     ],
     [
       "7791828900261",
-      "Papel Higiénico Hoja Simple 50 mts x Rollo Felpita 4 un",
+      "Papel Higienico Hoja Simple 50 mts x Rollo Felpita 4 un",
       "598,92"
     ],
     [
       "7791828006208",
-      "Papel Higiénico Doble Hoja 30 mts x Rollo Sweety 4 un",
+      "Papel Higienico Doble Hoja 30 mts x Rollo Sweety 4 un",
       "404,04"
     ],
     [
@@ -6054,7 +6054,7 @@
     ],
     [
       "7792052177344",
-      "Snacks Papas Chips Clásicas Cuisine & Co 140 gr",
+      "Snacks Papas Chips Clasicas Cuisine & Co 140 gr",
       "390"
     ],
     [
@@ -6064,7 +6064,7 @@
     ],
     [
       "7792052177382",
-      "Snacks Papas Chips Clásicas Cuisine & Co 40 gr",
+      "Snacks Papas Chips Clasicas Cuisine & Co 40 gr",
       "169"
     ],
     [
@@ -6094,27 +6094,27 @@
     ],
     [
       "7792052173827",
-      "Sopa Instantánea Sabor Camarón 65 gr",
+      "Sopa Instantanea Sabor Camaron 65 gr",
       "325"
     ],
     [
       "7792052173810",
-      "Sopa Instantánea Sabor Pollo 65 gr",
+      "Sopa Instantanea Sabor Pollo 65 gr",
       "325"
     ],
     [
       "7792052173803",
-      "Sopa Instantánea Sabor Carne 65 gr",
+      "Sopa Instantanea Sabor Carne 65 gr",
       "325"
     ],
     [
       "7792052175029",
-      "Conservas de Ananá en Rodajas 227 gr",
+      "Conservas de Anana en Rodajas 227 gr",
       "285"
     ],
     [
       "7792052175012",
-      "Conservas de Ananá en Rodajas 565 gr",
+      "Conservas de Anana en Rodajas 565 gr",
       "539"
     ],
     [
@@ -6134,22 +6134,22 @@
     ],
     [
       "7792052170826",
-      "Conservas de Atún Lomo Natural Cuisine & Co 174 gr",
+      "Conservas de Atun Lomo Natural Cuisine & Co 174 gr",
       "359"
     ],
     [
       "7792052170819",
-      "Conservas de Atún Lomo en Agua y Aceite Cuisine & Co 170 gr",
+      "Conservas de Atun Lomo en Agua y Aceite Cuisine & Co 170 gr",
       "359"
     ],
     [
       "7792052170796",
-      "Conservas de Atún Desmenuzado en Agua y Aceite Máxima Te Conviene 120 gr",
+      "Conservas de Atun Desmenuzado en Agua y Aceite Maxima Te Conviene 120 gr",
       "229"
     ],
     [
       "7792052170802",
-      "Conservas de Atún Desmenuzado al Natural Máxima Te Conviene 120 gr",
+      "Conservas de Atun Desmenuzado al Natural Maxima Te Conviene 120 gr",
       "229"
     ],
     [
@@ -6239,7 +6239,7 @@
     ],
     [
       "7792180139719",
-      "Bizcochos Clásicos 9 De Oro 215 gr",
+      "Bizcochos Clasicos 9 De Oro 215 gr",
       "171,6"
     ],
     [
@@ -6254,7 +6254,7 @@
     ],
     [
       "7792180140555",
-      "Harina Integral Clásica Cañuelas 1000 gr",
+      "Harina Integral Clasica Cañuelas 1000 gr",
       "134,14"
     ],
     [
@@ -6264,17 +6264,17 @@
     ],
     [
       "7792180004758",
-      "Pan Rallado Mamá Cocina 1000 gr",
+      "Pan Rallado Mama Cocina 1000 gr",
       "224,74"
     ],
     [
       "7792180004796",
-      "Rebozador para horno Mamá Cocina 1000 gr",
+      "Rebozador para horno Mama Cocina 1000 gr",
       "419,11"
     ],
     [
       "7792180007285",
-      "Galletitas Crackers con Semillas de Sésamo Paseo 300 gr",
+      "Galletitas Crackers con Semillas de Sesamo Paseo 300 gr",
       "215,28"
     ],
     [
@@ -6309,47 +6309,47 @@
     ],
     [
       "7792180139245",
-      "Budín de Chocolate 9 De Oro 180 gr",
+      "Budin de Chocolate 9 De Oro 180 gr",
       "260"
     ],
     [
       "7792180004741",
-      "Pan Rallado Fortificado Mamá Cocina 500 gr",
+      "Pan Rallado Fortificado Mama Cocina 500 gr",
       "170,56"
     ],
     [
       "7792180004765",
-      "Rebozador Freir Fortificado Mamá Cocina 500 gr",
+      "Rebozador Freir Fortificado Mama Cocina 500 gr",
       "162,59"
     ],
     [
       "7792180004772",
-      "Rebozador Horno Fortificado Mamá Cocina 1000 gr",
+      "Rebozador Horno Fortificado Mama Cocina 1000 gr",
       "333,14"
     ],
     [
       "7792180004789",
-      "Rebozador Horno Fortificado Mamá Cocina 500 gr",
+      "Rebozador Horno Fortificado Mama Cocina 500 gr",
       "223,59"
     ],
     [
       "7792180137845",
-      "Tostadas Clásicas Paseo 200 gr",
+      "Tostadas Clasicas Paseo 200 gr",
       "278"
     ],
     [
       "7792180004833",
-      "Premezcla Para Pizza Clásica Plus Mamá Cocina 500 gr",
+      "Premezcla Para Pizza Clasica Plus Mama Cocina 500 gr",
       "191,26"
     ],
     [
       "7792180139603",
-      "Premezcla Bizcochuelo Vainilla Bolsa Mamá Cocina 540 gr",
+      "Premezcla Bizcochuelo Vainilla Bolsa Mama Cocina 540 gr",
       "296,4"
     ],
     [
       "7792180139627",
-      "Premezcla Polvo para Preparar Bizcochuelo Chocolate Mamá Cocina 540 gr",
+      "Premezcla Polvo para Preparar Bizcochuelo Chocolate Mama Cocina 540 gr",
       "349,44"
     ],
     [
@@ -6369,7 +6369,7 @@
     ],
     [
       "7792180008640",
-      "Pan Prehorneado Flautita Cocinada Mamá Cocina 6 un",
+      "Pan Prehorneado Flautita Cocinada Mama Cocina 6 un",
       "210,03"
     ],
     [
@@ -6389,17 +6389,17 @@
     ],
     [
       "7792180131621",
-      "Budín Mini Vainilla 9 de Oro 140 gr",
+      "Budin Mini Vainilla 9 de Oro 140 gr",
       "299,07"
     ],
     [
       "7792180131645",
-      "Budín Mini Dulce de Leche 9 de Oro 215 gr",
+      "Budin Mini Dulce de Leche 9 de Oro 215 gr",
       "348,92"
     ],
     [
       "7792180132024",
-      "Budín Mini Vainilla con Dulce de Leche 45 gr",
+      "Budin Mini Vainilla con Dulce de Leche 45 gr",
       "72,86"
     ],
     [
@@ -6414,7 +6414,7 @@
     ],
     [
       "7792180133472",
-      "Budín Vainilla con Dulce de Leche Cañuelas 220 gr",
+      "Budin Vainilla con Dulce de Leche Cañuelas 220 gr",
       "168,63"
     ],
     [
@@ -6439,12 +6439,12 @@
     ],
     [
       "7792180136497",
-      "Premezcla Para Cookies - con Chips Colores Mamá Cocina 300 gr",
+      "Premezcla Para Cookies - con Chips Colores Mama Cocina 300 gr",
       "339,64"
     ],
     [
       "7792180137135",
-      "Galletitas Dulces De Chocolate Rellenas con Limón Brigitte 9 De Oro 120 gr",
+      "Galletitas Dulces De Chocolate Rellenas con Limon Brigitte 9 De Oro 120 gr",
       "183,88"
     ],
     [
@@ -6474,7 +6474,7 @@
     ],
     [
       "7792180138620",
-      "Galletitas Dulces Pepas con Membrillo Dulce Mamá 200 gr",
+      "Galletitas Dulces Pepas con Membrillo Dulce Mama 200 gr",
       "114,82"
     ],
     [
@@ -6489,17 +6489,17 @@
     ],
     [
       "7792180139238",
-      "Budín Vainilla 9 De Oro 170 gr",
+      "Budin Vainilla 9 De Oro 170 gr",
       "260"
     ],
     [
       "7792180139252",
-      "Budín Vainilla Relleno con Dulce de Leche 9 De Oro 190 gr",
+      "Budin Vainilla Relleno con Dulce de Leche 9 De Oro 190 gr",
       "246,58"
     ],
     [
       "7792180139269",
-      "Budín Marmolado 9 De Oro 170 gr",
+      "Budin Marmolado 9 De Oro 170 gr",
       "245,34"
     ],
     [
@@ -6509,17 +6509,17 @@
     ],
     [
       "7792180139597",
-      "Premezcla Para Preparar Bizcochuelo con Semillas Mamá Cocina 540 gr",
+      "Premezcla Para Preparar Bizcochuelo con Semillas Mama Cocina 540 gr",
       "420,22"
     ],
     [
       "7792180139610",
-      "Premezcla Para Preparar Bizcochuelo de Limón Mamá Cocina 540 gr",
+      "Premezcla Para Preparar Bizcochuelo de Limon Mama Cocina 540 gr",
       "296,4"
     ],
     [
       "7792180139634",
-      "Premezcla Para Preparar Brownies de Chocolate Mamá Cocina 425 gr",
+      "Premezcla Para Preparar Brownies de Chocolate Mama Cocina 425 gr",
       "358,8"
     ],
     [
@@ -6539,12 +6539,12 @@
     ],
     [
       "7792180140562",
-      "Pan Rallado con Ajo y Perejil Mamá Cocina 500 gr",
+      "Pan Rallado con Ajo y Perejil Mama Cocina 500 gr",
       "241,18"
     ],
     [
       "7792180135582",
-      "Premezcla Ñoquis de Papa Mamá Cocina 200 gr",
+      "Premezcla Ñoquis de Papa Mama Cocina 200 gr",
       "189,05"
     ],
     [
@@ -6554,7 +6554,7 @@
     ],
     [
       "7792200000098",
-      "Bizcochos Cláscio 9 de Oro 100 gr",
+      "Bizcochos Clascio 9 de Oro 100 gr",
       "97,66"
     ],
     [
@@ -6614,7 +6614,7 @@
     ],
     [
       "7792180137111",
-      "Galletitas Dulces Sabor Vainilla con Relleno de Limón 9 de oro 120 gr",
+      "Galletitas Dulces Sabor Vainilla con Relleno de Limon 9 de oro 120 gr",
       "203,89"
     ],
     [
@@ -6654,7 +6654,7 @@
     ],
     [
       "7792180138613",
-      "Galletitas Dulces Pepas con Membrillo Dulce Mamá 350 gr",
+      "Galletitas Dulces Pepas con Membrillo Dulce Mama 350 gr",
       "214,93"
     ],
     [
@@ -6664,12 +6664,12 @@
     ],
     [
       "7792180139283",
-      "Budín Integral de Banana con 5 Semillas 9 De Oro 170 gr",
+      "Budin Integral de Banana con 5 Semillas 9 De Oro 170 gr",
       "260"
     ],
     [
       "7792200000159",
-      "Bizcochos Clásica 9 de Oro 200 gr",
+      "Bizcochos Clasica 9 de Oro 200 gr",
       "170"
     ],
     [
@@ -6699,7 +6699,7 @@
     ],
     [
       "7792180006059",
-      "Palmera con Azúcar Sin Marca 1 un",
+      "Palmera con Azucar Sin Marca 1 un",
       "37,06"
     ],
     [
@@ -6734,17 +6734,17 @@
     ],
     [
       "7792180133441",
-      "Budín de Chocolate Cañuelas 220 gr",
+      "Budin de Chocolate Cañuelas 220 gr",
       "151,52"
     ],
     [
       "7792180133465",
-      "Budín de Vainilla Cañuelas 220 gr",
+      "Budin de Vainilla Cañuelas 220 gr",
       "151,52"
     ],
     [
       "7792180133458",
-      "Budín Marmolado Cañuelas 220 gr",
+      "Budin Marmolado Cañuelas 220 gr",
       "151,52"
     ],
     [
@@ -6909,7 +6909,7 @@
     ],
     [
       "7791199004988",
-      "Óleo Calcáreo Emulsion Limpiador en botella LIFE QUALITY 500 Ml",
+      "oleo Calcareo Emulsion Limpiador en botella LIFE QUALITY 500 Ml",
       "699"
     ],
     [
@@ -6939,7 +6939,7 @@
     ],
     [
       "7791199004551",
-      "Lavavajillas Ultra Limón TOP WIN 300 ml",
+      "Lavavajillas Ultra Limon TOP WIN 300 ml",
       "134,89"
     ],
     [
@@ -6994,7 +6994,7 @@
     ],
     [
       "7790410203179",
-      "Limpiador Desinfectante Con Amoníaco en Botella NH3 900 cc",
+      "Limpiador Desinfectante Con Amoniaco en Botella NH3 900 cc",
       "163,38"
     ],
     [
@@ -7004,12 +7004,12 @@
     ],
     [
       "7794710055469",
-      "Dulce de Leche Verónica 400 gr",
+      "Dulce de Leche Veronica 400 gr",
       "177,94"
     ],
     [
       "7794710088337",
-      "Leche en Polvo Entera Verónica 400 gr",
+      "Leche en Polvo Entera Veronica 400 gr",
       "391,66"
     ],
     [
@@ -7019,7 +7019,7 @@
     ],
     [
       "7794710067080",
-      "Queso Cremoso Cuartirolo Light c/s trozado Verónica 1000 gr",
+      "Queso Cremoso Cuartirolo Light c/s trozado Veronica 1000 gr",
       "1.352,00"
     ],
     [
@@ -7304,12 +7304,12 @@
     ],
     [
       "7790130000225",
-      "Jugo de Limón Menoyo 500 ml",
+      "Jugo de Limon Menoyo 500 ml",
       "256,26"
     ],
     [
       "7790130003233",
-      "Aceto Balsámico Menoyo 500 ml",
+      "Aceto Balsamico Menoyo 500 ml",
       "536,22"
     ],
     [
@@ -7319,12 +7319,12 @@
     ],
     [
       "7790130002915",
-      "Condimentos y Especias Pimentón Menoyo 23 gr",
+      "Condimentos y Especias Pimenton Menoyo 23 gr",
       "134,16"
     ],
     [
       "7790130003127",
-      "Condimentos y Especias Orégano Menoyo 23 gr",
+      "Condimentos y Especias Oregano Menoyo 23 gr",
       "124,8"
     ],
     [
@@ -7359,12 +7359,12 @@
     ],
     [
       "7791100000481",
-      "Azúcar Blanca Chango 1000 gr",
+      "Azucar Blanca Chango 1000 gr",
       "219"
     ],
     [
       "7790290101459",
-      "Fernet Clásico Vittone Speciale 750 cc Vittone Speciale Vittone 750 cc",
+      "Fernet Clasico Vittone Speciale 750 cc Vittone Speciale Vittone 750 cc",
       "488,16"
     ],
     [
@@ -7384,12 +7384,12 @@
     ],
     [
       "7790387014136",
-      "Yerba Mate Con Palo Liviana Unión 1000 gr",
+      "Yerba Mate Con Palo Liviana Union 1000 gr",
       "769"
     ],
     [
       "7790387014143",
-      "Yerba Mate Con Palo Liviana Unión 500 gr",
+      "Yerba Mate Con Palo Liviana Union 500 gr",
       "385"
     ],
     [
@@ -7399,7 +7399,7 @@
     ],
     [
       "7790387800159",
-      "Te Negro común Taragui 100 un",
+      "Te Negro comun Taragui 100 un",
       "384"
     ],
     [
@@ -7409,17 +7409,17 @@
     ],
     [
       "7790895002304",
-      "Gaseosa Gaseosa Naranja sin Azúcar Fanta 1,5 lt Fanta 1.5 lt",
+      "Gaseosa Gaseosa Naranja sin Azucar Fanta 1,5 lt Fanta 1.5 lt",
       "212,91"
     ],
     [
       "7790895012310",
-      "Gaseosa Gaseosa Naranja sin Azúcar Fanta 1,75 lt Fanta 1.75 lt",
+      "Gaseosa Gaseosa Naranja sin Azucar Fanta 1,75 lt Fanta 1.75 lt",
       "255,75"
     ],
     [
       "7790895064142",
-      "Gaseosa Gaseosa Lima Limón sin Azúcar Sprite SA 500 ml Sprite SA 500 ml",
+      "Gaseosa Gaseosa Lima Limon sin Azucar Sprite SA 500 ml Sprite SA 500 ml",
       "116,94"
     ],
     [
@@ -7459,1167 +7459,1167 @@
     ],
     [
       "8480017104342",
-      "Alim Base Queso Alim Base De Queso Opi 120 Gr Día 120 G Gr",
+      "Alim Base Queso Alim Base De Queso Opi 120 Gr Dia 120 G Gr",
       "238,16"
     ],
     [
       "8480017254191",
-      "Anillas De Calamar Anillas De Calamar Dia 200Gr Día 200GR Gr",
+      "Anillas De Calamar Anillas De Calamar Dia 200Gr Dia 200GR Gr",
       "882,96"
     ],
     [
       "8480017198914",
-      "Crema De Leche Aeros Crema De Leche Aerosol Dia 250Gr Día 250 GR Gr",
+      "Crema De Leche Aeros Crema De Leche Aerosol Dia 250Gr Dia 250 GR Gr",
       "518,96"
     ],
     [
       "8480017252944",
-      "Dados De Pollo Dados De Pollo Dia 300Gr Día 300GR Gr",
+      "Dados De Pollo Dados De Pollo Dia 300Gr Dia 300GR Gr",
       "622,96"
     ],
     [
       "8480017301055",
-      "Filete Merluza Empan Filet Empanado Merluza Dia 500 Gr Día 500 G Gr",
+      "Filete Merluza Empan Filet Empanado Merluza Dia 500 Gr Dia 500 G Gr",
       "1.070,16"
     ],
     [
       "8480017231413",
-      "Helado Americana Helado Americana Dia 500Gr Día 500GR Gr",
+      "Helado Americana Helado Americana Dia 500Gr Dia 500GR Gr",
       "1.038,96"
     ],
     [
       "8480017231444",
-      "Helado Limon Helado Limon Dia 500Gr Día 500GR Gr",
+      "Helado Limon Helado Limon Dia 500Gr Dia 500GR Gr",
       "1.038,96"
     ],
     [
       "8480017560476",
-      "Leche Choc L/V Leche Choc L/V Dia 200 Ml Día 200 ML Ml",
+      "Leche Choc L/V Leche Choc L/V Dia 200 Ml Dia 200 ML Ml",
       "102,96"
     ],
     [
       "8480017016652",
-      "Leche Condensada Leche Condensada Dia X 395Gr Día 395 G Gr",
+      "Leche Condensada Leche Condensada Dia X 395Gr Dia 395 G Gr",
       "254,80"
     ],
     [
       "8480017105752",
-      "Leche Polv Des Leche Polv Des Dia 800 Gr Día 800 G Gr",
+      "Leche Polv Des Leche Polv Des Dia 800 Gr Dia 800 G Gr",
       "1.257,36"
     ],
     [
       "8480017301154",
-      "Leche Polv Ent Leche Polv Entera Dia 800Gr Día 800 G Gr",
+      "Leche Polv Ent Leche Polv Entera Dia 800Gr Dia 800 G Gr",
       "1.257,36"
     ],
     [
       "8480017194671",
-      "Levadura Levadura Dia X 50Gr Día 50 G Gr",
+      "Levadura Levadura Dia X 50Gr Dia 50 G Gr",
       "36,40"
     ],
     [
       "7794480000348",
-      "Manteca Manteca Yocle 100Gr Día 100 G Gr",
+      "Manteca Manteca Yocle 100Gr Dia 100 G Gr",
       "168,48"
     ],
     [
       "7794480000355",
-      "Manteca Manteca Yolcl 200Gr Día 200 G Gr",
+      "Manteca Manteca Yolcl 200Gr Dia 200 G Gr",
       "296,4"
     ],
     [
       "7794480000362",
-      "Manteca Manteca Yoycle 500Gr Día 500 G Gr",
+      "Manteca Manteca Yoycle 500Gr Dia 500 G Gr",
       "726,96"
     ],
     [
       "8480017605139",
-      "Medallon Carne Medallon De Carne Opi 114Gr Día 114 G Gr",
+      "Medallon Carne Medallon De Carne Opi 114Gr Dia 114 G Gr",
       "144,56"
     ],
     [
       "8480017425935",
-      "Medallon Carne Medallon De Carne Opi 276Gr Día 276 G Gr",
+      "Medallon Carne Medallon De Carne Opi 276Gr Dia 276 G Gr",
       "352,56"
     ],
     [
       "7798180250911",
-      "Medallon De Carne Medallon De Carne Well Done 112 Gr Día 112 GR Gr",
+      "Medallon De Carne Medallon De Carne Well Done 112 Gr Dia 112 GR Gr",
       "123,76"
     ],
     [
       "7798180250959",
-      "Medallon Pollo Medallon De Pollo Well Done 114Gr Día 114 G Gr",
+      "Medallon Pollo Medallon De Pollo Well Done 114Gr Dia 114 G Gr",
       "109"
     ],
     [
       "8480017301062",
-      "Medallon Merluza Medallon Merluza Rebozado Dia 344 Gr Día 344 G Gr",
+      "Medallon Merluza Medallon Merluza Rebozado Dia 344 Gr Dia 344 G Gr",
       "570,96"
     ],
     [
       "8480017254214",
-      "Mejillones Pelados Mejillones Pelados Dia 250Gr Día 250GR Gr",
+      "Mejillones Pelados Mejillones Pelados Dia 250Gr Dia 250GR Gr",
       "674,96"
     ],
     [
       "7798099130731",
-      "Muzzarella Muzzarella El Prado 250Gr Día 250GR Gr",
+      "Muzzarella Muzzarella El Prado 250Gr Dia 250GR Gr",
       "394,16"
     ],
     [
       "8480017097705",
-      "Postre Choc Postre Choc Dia 230 Gr Día 230 G Gr",
+      "Postre Choc Postre Choc Dia 230 Gr Dia 230 G Gr",
       "123,76"
     ],
     [
       "8480017194589",
-      "Postre Dulce Leche Postre Dulce De Leche Dia X 230Gr Día 230 G Gr",
+      "Postre Dulce Leche Postre Dulce De Leche Dia X 230Gr Dia 230 G Gr",
       "123,76"
     ],
     [
       "8480017133762",
-      "Postre Vain Postre Vain Dia 230 Gr Día 230 G Gr",
+      "Postre Vain Postre Vain Dia 230 Gr Dia 230 G Gr",
       "123,76"
     ],
     [
       "8480017237026",
-      "Queso Normandia Queso Normandia 290Gr Día 290GR Gr",
+      "Queso Normandia Queso Normandia 290Gr Dia 290GR Gr",
       "300,56"
     ],
     [
       "8480017253538",
-      "Salchichas Salchichas Opi 190 Gr Día 190 G Gr",
+      "Salchichas Salchichas Opi 190 Gr Dia 190 G Gr",
       "154,96"
     ],
     [
       "8480017084859",
-      "Tapa Empan Crio Tapa Empan Crio Cuquets 280 Gr Día 280 G Gr",
+      "Tapa Empan Crio Tapa Empan Crio Cuquets 280 Gr Dia 280 G Gr",
       "141,44"
     ],
     [
       "8480017084774",
-      "Tapa Pascual Crio Tapa Pascual Crio Cuquets 370 Gr Día 370 G Gr",
+      "Tapa Pascual Crio Tapa Pascual Crio Cuquets 370 Gr Dia 370 G Gr",
       "186,16"
     ],
     [
       "8480017300638",
-      "Yog Des Batido Frut Yog Des Batido Frut Dia 125 Gr Día 125 G Gr",
+      "Yog Des Batido Frut Yog Des Batido Frut Dia 125 Gr Dia 125 G Gr",
       "79,04"
     ],
     [
       "8480017300645",
-      "Yog Des Batido Vain Yog Des Batido Vain Dia 125 Gr Día 125 G Gr",
+      "Yog Des Batido Vain Yog Des Batido Vain Dia 125 Gr Dia 125 G Gr",
       "79,04"
     ],
     [
       "8480017271822",
-      "Yog Beb Ent Frutilla Yogur Bebible Entero Frutilla Dia 220Gr Día 220 G Gr",
+      "Yog Beb Ent Frutilla Yogur Bebible Entero Frutilla Dia 220Gr Dia 220 G Gr",
       "63,44"
     ],
     [
       "8480017272157",
-      "Yog Beb Ent Vainilla Yogur Bebible Entero Vainilla Dia 220Gr Día 220 G Gr",
+      "Yog Beb Ent Vainilla Yogur Bebible Entero Vainilla Dia 220Gr Dia 220 G Gr",
       "63,44"
     ],
     [
       "8480017045683",
-      "Dulce De Leche Light Dulce De Leche Light Dia 400 Gr Día 400 G Gr",
+      "Dulce De Leche Light Dulce De Leche Light Dia 400 Gr Dia 400 G Gr",
       "248,56"
     ],
     [
       "8480017085016",
-      "Dulce De Leche Repo Dulce De Leche Repo Dia 1 Kg Día 1 KG Kg",
+      "Dulce De Leche Repo Dulce De Leche Repo Dia 1 Kg Dia 1 KG Kg",
       "581,36"
     ],
     [
       "8480017560490",
-      "Margarina Pan Margarina Pan Dia 200 Gr Día 200 G Gr",
+      "Margarina Pan Margarina Pan Dia 200 Gr Dia 200 G Gr",
       "144,56"
     ],
     [
       "8480017231529",
-      "Helado Ag Anana/Nara Helado De Agua Anana/Naranja Dia 68Gr Día 68GR Gr",
+      "Helado Ag Anana/Nara Helado De Agua Anana/Naranja Dia 68Gr Dia 68GR Gr",
       "82,16"
     ],
     [
       "8480017231543",
-      "Hela Ag Frut/Limon Helado De Agua Frutilla/Limon Dia 68Gr Día 68GR Gr",
+      "Hela Ag Frut/Limon Helado De Agua Frutilla/Limon Dia 68Gr Dia 68GR Gr",
       "82,16"
     ],
     [
       "7794984211301",
-      "Helado Cho/Gran/Cere Helado Chocolate Granizado Cereza Ice Cool 1Lt Día 1 L Lt",
+      "Helado Cho/Gran/Cere Helado Chocolate Granizado Cereza Ice Cool 1Lt Dia 1 L Lt",
       "518,96"
     ],
     [
       "7794984211325",
-      "Helado Ddl/Gran/Va/B Helado Ddl - Granizado - Vai - Banana Ice Cool 1Lt Día 1 L Lt",
+      "Helado Ddl/Gran/Va/B Helado Ddl - Granizado - Vai - Banana Ice Cool 1Lt Dia 1 L Lt",
       "518,96"
     ],
     [
       "8480017006134",
-      "Croque Espinaca Croqueta De Espinac Dia 400Gr Día 400 G Gr",
+      "Croque Espinaca Croqueta De Espinac Dia 400Gr Dia 400 G Gr",
       "518,96"
     ],
     [
       "8480017234247",
-      "Bebi Almen Vainilla Bebida De Almendras Vainilla Dia 1Lt Día 1LT Lt",
+      "Bebi Almen Vainilla Bebida De Almendras Vainilla Dia 1Lt Dia 1LT Lt",
       "309,92"
     ],
     [
       "8480017186621",
-      "Crema De Leche Lv Crema De Leche Larga Vida Dia 200Ml Día 200ML Ml",
+      "Crema De Leche Lv Crema De Leche Larga Vida Dia 200Ml Dia 200ML Ml",
       "218,40"
     ],
     [
       "8480017165176",
-      "Supr Pollo Relle J&Q Suprema De Pollo Rellena De Jamon Y Queso Dia 400Gr Día 400GR Gr",
+      "Supr Pollo Relle J&Q Suprema De Pollo Rellena De Jamon Y Queso Dia 400Gr Dia 400GR Gr",
       "727"
     ],
     [
       "8480017123923",
-      "Jamon Cocido Fetas Jamon Cocido Fet Dia 200 Gr Día 200 G Gr",
+      "Jamon Cocido Fetas Jamon Cocido Fet Dia 200 Gr Dia 200 G Gr",
       "466,96"
     ],
     [
       "8480017174413",
-      "Croque Papa J&Q Croquetas De Papa Jamon Y Queso Dia 400Gr Día 400 G Gr",
+      "Croque Papa J&Q Croquetas De Papa Jamon Y Queso Dia 400Gr Dia 400 G Gr",
       "674,96"
     ],
     [
       "8480017240866",
-      "Leberwurst Leberwurst Dia 150Gr Día 150GR Gr",
+      "Leberwurst Leberwurst Dia 150Gr Dia 150GR Gr",
       "149,76"
     ],
     [
       "2912487000000",
-      "Por Salut Light Por Salut Light Dia 1 Kg Día 1 KG Kg",
+      "Por Salut Light Por Salut Light Dia 1 Kg Dia 1 KG Kg",
       "1.829,36"
     ],
     [
       "8480017239426",
-      "Queso Muzzarella Queso Muzzarella Dia 180Gr Día 180GR Gr",
+      "Queso Muzzarella Queso Muzzarella Dia 180Gr Dia 180GR Gr",
       "383,76"
     ],
     [
       "8480017014825",
-      "Yog Beb Vain Yogur Bebible Sabor Vainilla Dia 500Gr Día 500 G Gr",
+      "Yog Beb Vain Yogur Bebible Sabor Vainilla Dia 500Gr Dia 500 G Gr",
       "165,36"
     ],
     [
       "8480017014832",
-      "Yog Beb Frut Yogur Bebible Sabor Frutilla Dia 500Gr Día 500 G Gr",
+      "Yog Beb Frut Yogur Bebible Sabor Frutilla Dia 500Gr Dia 500 G Gr",
       "165,36"
     ],
     [
       "8480017160584",
-      "Arvejas Secas Tetra Arvejas Secas Remojadas En Tetra Recart Dia 340 G Día 340 G Gr",
+      "Arvejas Secas Tetra Arvejas Secas Remojadas En Tetra Recart Dia 340 G Dia 340 G Gr",
       "85,28"
     ],
     [
       "8480017260093",
-      "Jardinera Verduras Jardinera Verduras Dia 300Gr Día 300GR Gr",
+      "Jardinera Verduras Jardinera Verduras Dia 300Gr Dia 300GR Gr",
       "118,56"
     ],
     [
       "8480017183989",
-      "Lentejas Remojadas Lentejas Remojadas Dia X340Gr Día 340 G Gr",
+      "Lentejas Remojadas Lentejas Remojadas Dia X340Gr Dia 340 G Gr",
       "140,4"
     ],
     [
       "8480017260208",
-      "Choclo Blanc Cremoso Choclo Blanco Cremoso Dia 300Gr Día 300GR Gr",
+      "Choclo Blanc Cremoso Choclo Blanco Cremoso Dia 300Gr Dia 300GR Gr",
       "109,2"
     ],
     [
       "8480017093479",
-      "Fideo Tirabuz Fideo Tirabuzon Cuquets 500 G Día 500 G Gr",
+      "Fideo Tirabuz Fideo Tirabuzon Cuquets 500 G Dia 500 G Gr",
       "109,2"
     ],
     [
       "8480017064219",
-      "Fideo Mostachol Fideo Mostachol Cuquets 500 G Día 500 G Gr",
+      "Fideo Mostachol Fideo Mostachol Cuquets 500 G Dia 500 G Gr",
       "109,2"
     ],
     [
       "8480017064158",
-      "Fideo Spaghetti Fideo Spaghetti Cuquets 500 G Día 500 G Gr",
+      "Fideo Spaghetti Fideo Spaghetti Cuquets 500 G Dia 500 G Gr",
       "109,2"
     ],
     [
       "8480017558176",
-      "Atun Desmen Aceite Atun Desmenuzado En Aceite Dia 170 G Día 170 G Gr",
+      "Atun Desmen Aceite Atun Desmenuzado En Aceite Dia 170 G Dia 170 G Gr",
       "168,48"
     ],
     [
       "8480017062321",
-      "Tomate Per Cub Pure Tomate Peerita Cubeteado+Pure Dia 400Gr Día 400 G Gr",
+      "Tomate Per Cub Pure Tomate Peerita Cubeteado+Pure Dia 400Gr Dia 400 G Gr",
       "147,68"
     ],
     [
       "8480017345967",
-      "Tomate Perita Pelado Tomate Perita Pelado Dia 400 G Día 400 G Gr",
+      "Tomate Perita Pelado Tomate Perita Pelado Dia 400 G Dia 400 G Gr",
       "113,36"
     ],
     [
       "8480017104038",
-      "Salsa Pizza Salsa Para Pizza Dia Doypack X 340Gr Día 340 G Gr",
+      "Salsa Pizza Salsa Para Pizza Dia Doypack X 340Gr Dia 340 G Gr",
       "105,04"
     ],
     [
       "8480017029096",
-      "Salsa Filetto Salsa De Tomate Tradicional Filetto Dp X 340Gr Día 340 G Gr",
+      "Salsa Filetto Salsa De Tomate Tradicional Filetto Dp X 340Gr Dia 340 G Gr",
       "105,04"
     ],
     [
       "8480017110268",
-      "Gallet Maria Galleta Maria Tripack Dia 360Gr Día 360 G Gr",
+      "Gallet Maria Galleta Maria Tripack Dia 360Gr Dia 360 G Gr",
       "245,96"
     ],
     [
       "8480017179524",
-      "Galleta De Arroz Dul Galleta De Arroz Dulce Dia 100Gr Día 100GR Gr",
+      "Galleta De Arroz Dul Galleta De Arroz Dulce Dia 100Gr Dia 100GR Gr",
       "118,04"
     ],
     [
       "8480017555014",
-      "Gallet Palmerita Galleta Palmerita Dia 150Gr Día 150 G Gr",
+      "Gallet Palmerita Galleta Palmerita Dia 150Gr Dia 150 G Gr",
       "192,4"
     ],
     [
       "8480017204097",
-      "Gallet Vai Frut Bosq Galletas Dulces Vainilla Con Frutos Del Bosque Dia 140Gr Día 140 G Gr",
+      "Gallet Vai Frut Bosq Galletas Dulces Vainilla Con Frutos Del Bosque Dia 140Gr Dia 140 G Gr",
       "171,6"
     ],
     [
       "8480017074812",
-      "Gallet Rell Choc Galletitas Rellenas De Chocolate Dia 140Gr Día 140 G Gr",
+      "Gallet Rell Choc Galletitas Rellenas De Chocolate Dia 140Gr Dia 140 G Gr",
       "171,6"
     ],
     [
       "8480017208439",
-      "Galletitas Crackers Galletitas Salvado X 330 Gr Dia Día 330 GR Gr",
+      "Galletitas Crackers Galletitas Salvado X 330 Gr Dia Dia 330 GR Gr",
       "212,16"
     ],
     [
       "8480017124630",
-      "Gallet Mantequita Galletitas Mantequitas Dia X 250Gr Día 250 G Gr",
+      "Gallet Mantequita Galletitas Mantequitas Dia X 250Gr Dia 250 G Gr",
       "154,96"
     ],
     [
       "8480017179319",
-      "Obleas Chocolate 4Ud Obleas Chocolate 4Ud Dia 200Gr Día 200GR Gr",
+      "Obleas Chocolate 4Ud Obleas Chocolate 4Ud Dia 200Gr Dia 200GR Gr",
       "212,16"
     ],
     [
       "8480017245700",
-      "Obleas Clasicas 4Ud Obleas Clasicas 4Ud Dia 200Gr Día 200GR Gr",
+      "Obleas Clasicas 4Ud Obleas Clasicas 4Ud Dia 200Gr Dia 200GR Gr",
       "212,16"
     ],
     [
       "8480017202277",
-      "Gallet Lunitas Galletitas Lunitas Bañadas 200Gr Día 200 G Gr",
+      "Gallet Lunitas Galletitas Lunitas Bañadas 200Gr Dia 200 G Gr",
       "147,68"
     ],
     [
       "8480017254153",
-      "Galle Ave Coco Y Ddl Galletas De Avena Coco Y Dulce De Leche Dia 100Gr Día 100GR Gr",
+      "Galle Ave Coco Y Ddl Galletas De Avena Coco Y Dulce De Leche Dia 100Gr Dia 100GR Gr",
       "114,4"
     ],
     [
       "8480017074805",
-      "Gallet Rell Frut Galletitas Rellenas De Frutilla Dia 140Gr Día 140 G Gr",
+      "Gallet Rell Frut Galletitas Rellenas De Frutilla Dia 140Gr Dia 140 G Gr",
       "171,6"
     ],
     [
       "8480017173966",
-      "Oblea Choc Choc Blan Obleas Chocolate Y Chocolate Blanco Dia 100Gr Día 100 G Gr",
+      "Oblea Choc Choc Blan Obleas Chocolate Y Chocolate Blanco Dia 100Gr Dia 100 G Gr",
       "98,08"
     ],
     [
       "8480017174383",
-      "Oblea Choc Naran Obleas Chocolate Y Naranja Dia 100Gr Día 100 G Gr",
+      "Oblea Choc Naran Obleas Chocolate Y Naranja Dia 100Gr Dia 100 G Gr",
       "98,08"
     ],
     [
       "8480017240958",
-      "Galletitas Sutridas Gallletitas Surtidas Dia 360Gr Día 360GR Gr",
+      "Galletitas Sutridas Gallletitas Surtidas Dia 360Gr Dia 360GR Gr",
       "256,88"
     ],
     [
       "8480017085092",
-      "Gallet Cracker Galletitas Crackers Cuquets 110Gr Día 110 G Gr",
+      "Gallet Cracker Galletitas Crackers Cuquets 110Gr Dia 110 G Gr",
       "69,32"
     ],
     [
       "8480017173256",
-      "Gallet Rell Frut Galletas Rellenas Frutilllas Dia X140 Gr Día 140 G Gr",
+      "Gallet Rell Frut Galletas Rellenas Frutilllas Dia X140 Gr Dia 140 G Gr",
       "171,60"
     ],
     [
       "8480017212924",
-      "Galletas Choco C/Vai Galletas Chocolate Con Vainilla Dia 160 Gr Día 160 GR Gr",
+      "Galletas Choco C/Vai Galletas Chocolate Con Vainilla Dia 160 Gr Dia 160 GR Gr",
       "147,68"
     ],
     [
       "8480017015525",
-      "Gallet Memb Frolita Galleta Con Membrillo Frolita Dia 300Gr Día 300 G Gr",
+      "Gallet Memb Frolita Galleta Con Membrillo Frolita Dia 300Gr Dia 300 G Gr",
       "170,56"
     ],
     [
       "8480017116291",
-      "Gallet Rell Vain Galletitas Rellena De Vainilla Dia 140Gr Día 140 G Gr",
+      "Gallet Rell Vain Galletitas Rellena De Vainilla Dia 140Gr Dia 140 G Gr",
       "171,6"
     ],
     [
       "8480017173249",
-      "Gallet Rell Gallets Rellenas Paz Y Amor Dia 400 Gr Día 400 G Gr",
+      "Gallet Rell Gallets Rellenas Paz Y Amor Dia 400 Gr Dia 400 G Gr",
       "394,16"
     ],
     [
       "8480017088147",
-      "Gallet Marmolada Galletita Marmolada Dia 500Gr Día 500 G Gr",
+      "Gallet Marmolada Galletita Marmolada Dia 500Gr Dia 500 G Gr",
       "327,6"
     ],
     [
       "8480017056818",
-      "Gallet Marmolada Galleta Marmolada Dia 250Gr Día 250 G Gr",
+      "Gallet Marmolada Galleta Marmolada Dia 250Gr Dia 250 G Gr",
       "187,2"
     ],
     [
       "8480017061195",
-      "Gallet Anillo Vain Galletita Anillo Vainilla Dia 250Gr Día 250 G Gr",
+      "Gallet Anillo Vain Galletita Anillo Vainilla Dia 250Gr Dia 250 G Gr",
       "187,2"
     ],
     [
       "8480017212900",
-      "Salero Sal Fina Salero Sal Fina Dia 500Gr Día 500GR Gr",
+      "Salero Sal Fina Salero Sal Fina Dia 500Gr Dia 500GR Gr",
       "265,2"
     ],
     [
       "8480017557490",
-      "Aceit Verde Rellena Aceitunas Verdes Rellenas Doypack Dia 180Gr Día 300 G Gr",
+      "Aceit Verde Rellena Aceitunas Verdes Rellenas Doypack Dia 180Gr Dia 300 G Gr",
       "239,2"
     ],
     [
       "8480017557469",
-      "Aceit Negra Aceitunas Negras En Salmuera Dia 300Gr Día 300GR Gr",
+      "Aceit Negra Aceitunas Negras En Salmuera Dia 300Gr Dia 300GR Gr",
       "208"
     ],
     [
       "8480017121257",
-      "Lentejas Lentejas Dia 500 G Día 500 G Gr",
+      "Lentejas Lentejas Dia 500 G Dia 500 G Gr",
       "301,6"
     ],
     [
       "8480017397621",
-      "Pimienta Blan Molida Pimienta Blanca Molida Dia 25 G Día 25 G Gr",
+      "Pimienta Blan Molida Pimienta Blanca Molida Dia 25 G Dia 25 G Gr",
       "139,36"
     ],
     [
       "8480017263124",
-      "Pimienta Negra Molid Pimienta Negra Molida Dia 25Gr Día 25GR Gr",
+      "Pimienta Negra Molid Pimienta Negra Molida Dia 25Gr Dia 25GR Gr",
       "130"
     ],
     [
       "8480017263148",
-      "Nuez Moscada Molida Nuez Moscada Molida Dia 25Gr Día 25GR Gr",
+      "Nuez Moscada Molida Nuez Moscada Molida Dia 25Gr Dia 25GR Gr",
       "280,8"
     ],
     [
       "8480017105219",
-      "Condimento Arroz Condimento Para Arroz Dia 25 Gr Día 25 GR Gr",
+      "Condimento Arroz Condimento Para Arroz Dia 25 Gr Dia 25 GR Gr",
       "85,28"
     ],
     [
       "8480017263131",
-      "Comino Molido Comino Molido Dia 25Gr Día 25GR Gr",
+      "Comino Molido Comino Molido Dia 25Gr Dia 25GR Gr",
       "124,8"
     ],
     [
       "8480017201751",
-      "Salsa Soja Salsa Soja Dia X 280 Gr Día 280 G Gr",
+      "Salsa Soja Salsa Soja Dia X 280 Gr Dia 280 G Gr",
       "208"
     ],
     [
       "8480017201768",
-      "Salsa Aji Picante Salsa Aji Picante Dia X 295Gr Día 295 G Gr",
+      "Salsa Aji Picante Salsa Aji Picante Dia X 295Gr Dia 295 G Gr",
       "234"
     ],
     [
       "8480017201744",
-      "Salsa Chimichurri Salsa Chimichurri Dia X 285Gr Día 285GR Gr",
+      "Salsa Chimichurri Salsa Chimichurri Dia X 285Gr Dia 285GR Gr",
       "206,96"
     ],
     [
       "8480017213853",
-      "Rebozador Condimenta Rebozador Condimentado Dia 500 Gr Día 500 GR Gr",
+      "Rebozador Condimenta Rebozador Condimentado Dia 500 Gr Dia 500 GR Gr",
       "217,36"
     ],
     [
       "8480017066923",
-      "Flan Vain Polvo Flan Vainilla Dia 60Gr Día 60 G Gr",
+      "Flan Vain Polvo Flan Vainilla Dia 60Gr Dia 60 G Gr",
       "109,2"
     ],
     [
       "7791113001420",
-      "Bizcochuelo Vain Bizcochuelo Con Chips Delicious 540 Gr Día 540 G Gr",
+      "Bizcochuelo Vain Bizcochuelo Con Chips Delicious 540 Gr Dia 540 G Gr",
       "373,36"
     ],
     [
       "8480017534781",
-      "Cacao Polvo Cacao Dia 800Gr Día 800 G Gr",
+      "Cacao Polvo Cacao Dia 800Gr Dia 800 G Gr",
       "452,4"
     ],
     [
       "8480017212894",
-      "Copos De Maiz Copos De Maiz Cuquets 400 Gr Día 400 GR Gr",
+      "Copos De Maiz Copos De Maiz Cuquets 400 Gr Dia 400 GR Gr",
       "310,96"
     ],
     [
       "8480017212887",
-      "Copos De Maiz Azucar Copos De Maiz Azucarado Cuquets 200 Gr Día 200 GR Gr",
+      "Copos De Maiz Azucar Copos De Maiz Azucarado Cuquets 200 Gr Dia 200 GR Gr",
       "182"
     ],
     [
       "8480017252661",
-      "Polvo Para Hornear Polvo Para Hornear Dia 50Gr Día 50GR Gr",
+      "Polvo Para Hornear Polvo Para Hornear Dia 50Gr Dia 50GR Gr",
       "71,76"
     ],
     [
       "8480017254436",
-      "Baño De Reposte Bco Baño De Reposteria Blanco Dia 150Gr Día 150GR Gr",
+      "Baño De Reposte Bco Baño De Reposteria Blanco Dia 150Gr Dia 150GR Gr",
       "258,96"
     ],
     [
       "8480017254443",
-      "Baño Repos Leche Baño Repostero Con Leche Dia 150Gr Día 150GR Gr",
+      "Baño Repos Leche Baño Repostero Con Leche Dia 150Gr Dia 150GR Gr",
       "258,96"
     ],
     [
       "8480017135858",
-      "Barra Arroz Barra De Arroz Dia 60Gr Día 60 G Gr",
+      "Barra Arroz Barra De Arroz Dia 60Gr Dia 60 G Gr",
       "150,8"
     ],
     [
       "8480017256577",
-      "Gotas De Repos Semia Gotas De Repost. Semiamargo Dia X 150Gr Día 150GR Gr",
+      "Gotas De Repos Semia Gotas De Repost. Semiamargo Dia X 150Gr Dia 150GR Gr",
       "352,56"
     ],
     [
       "8480017093455",
-      "Coctel 4 Frutas Coctel 4 Frutas Dia X 820Gr Día 820 G Gr",
+      "Coctel 4 Frutas Coctel 4 Frutas Dia X 820Gr Dia 820 G Gr",
       "446,16"
     ],
     [
       "8480017105240",
-      "Jalea Membrillo Jalea De Membrillo 454Gr Dia Día 454 G Gr",
+      "Jalea Membrillo Jalea De Membrillo 454Gr Dia Dia 454 G Gr",
       "413,92"
     ],
     [
       "8480017240507",
-      "Miel Abejas Miel De Abejas Dia 210Gr Día 210 G Gr",
+      "Miel Abejas Miel De Abejas Dia 210Gr Dia 210 G Gr",
       "464,56"
     ],
     [
       "8480017602824",
-      "Azucar Impalpable Azucar Impalpable Dia 250Gr Día 250 G Gr",
+      "Azucar Impalpable Azucar Impalpable Dia 250Gr Dia 250 G Gr",
       "175,76"
     ],
     [
       "8480017258168",
-      "Edulcor Liquid Sucra Edulcorante Liquido Sucralosa Dia 500Ml Día 500ML Ml",
+      "Edulcor Liquid Sucra Edulcorante Liquido Sucralosa Dia 500Ml Dia 500ML Ml",
       "379,6"
     ],
     [
       "8480017010889",
-      "Baño Rep Semiamargo Baño De Reposteria Semiamargo Dia 150Gr Día 150 G Gr",
+      "Baño Rep Semiamargo Baño De Reposteria Semiamargo Dia 150Gr Dia 150 G Gr",
       "258,96"
     ],
     [
       "8480017257413",
-      "Grisines Grisines Dia 100Gr Día 100GR Gr",
+      "Grisines Grisines Dia 100Gr Dia 100GR Gr",
       "123,76"
     ],
     [
       "8480017345462",
-      "Durazno Mitad Light Durazno Light En Mitades Dia 800Gr Día 800 G Gr",
+      "Durazno Mitad Light Durazno Light En Mitades Dia 800Gr Dia 800 G Gr",
       "414,96"
     ],
     [
       "8480017592088",
-      "Pan Dulce Pan Dulce Dia 500Gr Día 500 G Gr",
+      "Pan Dulce Pan Dulce Dia 500Gr Dia 500 G Gr",
       "695,76"
     ],
     [
       "8480017066879",
-      "Pan Dulce Frutas Pan Dulce Sin Frutas Dia 500Gr Día 500 G Gr",
+      "Pan Dulce Frutas Pan Dulce Sin Frutas Dia 500Gr Dia 500 G Gr",
       "695,76"
     ],
     [
       "8480017083418",
-      "Budin Relleno Ddl Budin Vainilla Relleno Dulce De Leche Dia 250Gr Día 250GR Gr",
+      "Budin Relleno Ddl Budin Vainilla Relleno Dulce De Leche Dia 250Gr Dia 250GR Gr",
       "352,56"
     ],
     [
       "8480017626578",
-      "Pan Dulce Pannetone Pan Dulce Pannetone Dia 700Gr Día 700 G Gr",
+      "Pan Dulce Pannetone Pan Dulce Pannetone Dia 700Gr Dia 700 G Gr",
       "1.038,96"
     ],
     [
       "8480017066886",
-      "Pan Dulce Chips Pan Dulce Chocolate Con Chips Dia 500Gr Día 500 G Gr",
+      "Pan Dulce Chips Pan Dulce Chocolate Con Chips Dia 500Gr Dia 500 G Gr",
       "986,96"
     ],
     [
       "8480017053244",
-      "Postre Mani Postre De Mani Dia X 105Gr Día 105 G Gr",
+      "Postre Mani Postre De Mani Dia X 105Gr Dia 105 G Gr",
       "165,36"
     ],
     [
       "8480017765550",
-      "Turron Mani Turron De Mani Dia X 100Gramos Día 100 G Gr",
+      "Turron Mani Turron De Mani Dia X 100Gramos Dia 100 G Gr",
       "140,4"
     ],
     [
       "8480017641670",
-      "Pasas Choc Pasas De Uva Con Chocolate Dia 100Gr Día 100 G Gr",
+      "Pasas Choc Pasas De Uva Con Chocolate Dia 100Gr Dia 100 G Gr",
       "254,8"
     ],
     [
       "8480017506306",
-      "Mani Choc Mani Con Cobertura De Chocolate Dia 100Gr Día 100 G Gr",
+      "Mani Choc Mani Con Cobertura De Chocolate Dia 100Gr Dia 100 G Gr",
       "223,6"
     ],
     [
       "8480017768285",
-      "Garrapiñada Mani Garrapiñada De Mani Dia 100Gr Día 100 G Gr",
+      "Garrapiñada Mani Garrapiñada De Mani Dia 100Gr Dia 100 G Gr",
       "130"
     ],
     [
       "8480017765543",
-      "Turron Mani Turron De Mani Dia 300Gr Día 300 G Gr",
+      "Turron Mani Turron De Mani Dia 300Gr Dia 300 G Gr",
       "383,76"
     ],
     [
       "8480017765567",
-      "Turron Crujient Turron Crujiente Dia 100Gr Día 100 G Gr",
+      "Turron Crujient Turron Crujiente Dia 100Gr Dia 100 G Gr",
       "196,56"
     ],
     [
       "8480017765574",
-      "Turron Mani Cacao Turron De Mani Con Cacao Dia 100Gr Día 100 G Gr",
+      "Turron Mani Cacao Turron De Mani Con Cacao Dia 100Gr Dia 100 G Gr",
       "161,2"
     ],
     [
       "8480017647719",
-      "Turron Mani Mie Choc Turron Mani Y Miel Con Chocolate Dia 100Gr Día 100 G Gr",
+      "Turron Mani Mie Choc Turron Mani Y Miel Con Chocolate Dia 100Gr Dia 100 G Gr",
       "348,4"
     ],
     [
       "8480017765581",
-      "Turron Almendras Turron De Almendras Dia 100Gr Día 100 G Gr",
+      "Turron Almendras Turron De Almendras Dia 100Gr Dia 100 G Gr",
       "394,16"
     ],
     [
       "8480017555687",
-      "Pionono Pionono Dia 150Gr Día 150 G Gr",
+      "Pionono Pionono Dia 150Gr Dia 150 G Gr",
       "265,2"
     ],
     [
       "8480017061577",
-      "Pionono Salado Pionono Salado Dia 150Gr Día 150GR Gr",
+      "Pionono Salado Pionono Salado Dia 150Gr Dia 150GR Gr",
       "265,2"
     ],
     [
       "8480017141064",
-      "Budin Marmolado Budin Marmolado Dia 250Gr Día 250 G Gr",
+      "Budin Marmolado Budin Marmolado Dia 250Gr Dia 250 G Gr",
       "352,56"
     ],
     [
       "8480017150547",
-      "Budin Chips Choc Budin Con Chip De Chocolate Dia X250Gr Día 250 G Gr",
+      "Budin Chips Choc Budin Con Chip De Chocolate Dia X250Gr Dia 250 G Gr",
       "352,56"
     ],
     [
       "8480017141071",
-      "Budin Vain Budin De Vainilla Dia 250Gr Día 250 G Gr",
+      "Budin Vain Budin De Vainilla Dia 250Gr Dia 250 G Gr",
       "352,56"
     ],
     [
       "8480017141088",
-      "Budin Frutas Budin Con Frutas Dia 250Gr Día 250 G Gr",
+      "Budin Frutas Budin Con Frutas Dia 250Gr Dia 250 G Gr",
       "352,56"
     ],
     [
       "8480017089038",
-      "Lentejas Choc Lenteja De Chocolate Dia 80Gr Día 80 G Gr",
+      "Lentejas Choc Lenteja De Chocolate Dia 80Gr Dia 80 G Gr",
       "227,76"
     ],
     [
       "8480017217622",
-      "Bombon Relleno Bombon Relleno Deliciuos Día 80GR Gr",
+      "Bombon Relleno Bombon Relleno Deliciuos Dia 80GR Gr",
       "446,16"
     ],
     [
       "8480017217646",
-      "Arandanos Bañados Arandanos Bañadaos Delicious 80Gr Día 80GR Gr",
+      "Arandanos Bañados Arandanos Bañadaos Delicious 80Gr Dia 80GR Gr",
       "446,16"
     ],
     [
       "8480017217639",
-      "Naranjas Bañadas Naranjas Bañadas Delicious Día 80GR Gr",
+      "Naranjas Bañadas Naranjas Bañadas Delicious Dia 80GR Gr",
       "446,16"
     ],
     [
       "8480017256645",
-      "Almendras Con Cobert Almendras Con Cobertura Delicious 80Gr Día 80GR Gr",
+      "Almendras Con Cobert Almendras Con Cobertura Delicious 80Gr Dia 80GR Gr",
       "446,16"
     ],
     [
       "8480017256584",
-      "Avellanas C/ Cober Avellanas C/ Cober Delicious 80Gr Día 80GR Gr",
+      "Avellanas C/ Cober Avellanas C/ Cober Delicious 80Gr Dia 80GR Gr",
       "446,16"
     ],
     [
       "8480017256607",
-      "Pasas De Uva Cubiert Pasas De Uva C/Chocolate Delicius 80Gr Día 80GR Gr",
+      "Pasas De Uva Cubiert Pasas De Uva C/Chocolate Delicius 80Gr Dia 80GR Gr",
       "446,16"
     ],
     [
       "8480017066893",
-      "Pan Dulce Frutas Pan Dulce Con Frutas Cuquets 400Gr Día 400 G Gr",
+      "Pan Dulce Frutas Pan Dulce Con Frutas Cuquets 400Gr Dia 400 G Gr",
       "518,96"
     ],
     [
       "8480017193476",
-      "Pan Dulce Chips Choc Pan Dulce Con Chips De Chocolate X 400G Día 400 G Gr",
+      "Pan Dulce Chips Choc Pan Dulce Con Chips De Chocolate X 400G Dia 400 G Gr",
       "591,76"
     ],
     [
       "8480017208095",
-      "Budin Vainilla Chips Budin Vainilla Chips Cuquets 170Gr Día 170 G Gr",
+      "Budin Vainilla Chips Budin Vainilla Chips Cuquets 170Gr Dia 170 G Gr",
       "182"
     ],
     [
       "8480017208088",
-      "Budin Vainilla Budin Vainilla Cuquets 170Gr Día 170 G Gr",
+      "Budin Vainilla Budin Vainilla Cuquets 170Gr Dia 170 G Gr",
       "182"
     ],
     [
       "8480017256638",
-      "Budin Marmolado Budin Marmolado Cuquet 170Gr Día 170GR Gr",
+      "Budin Marmolado Budin Marmolado Cuquet 170Gr Dia 170GR Gr",
       "182"
     ],
     [
       "8480017256591",
-      "Budin Con Fruta Budin Con Fruta Cuquet 170Gr Día 170GR Gr",
+      "Budin Con Fruta Budin Con Fruta Cuquet 170Gr Dia 170GR Gr",
       "182"
     ],
     [
       "8480017300003",
-      "Te Saquitos Te En Saquitos Dia 50Ud Día 50 U Uni",
+      "Te Saquitos Te En Saquitos Dia 50Ud Dia 50 U Uni",
       "138,32"
     ],
     [
       "8480017300010",
-      "Mate Cocido Saquitos Mate Cocido En Saquitos Dia 50Ud Día 50 U Uni",
+      "Mate Cocido Saquitos Mate Cocido En Saquitos Dia 50Ud Dia 50 U Uni",
       "186,16"
     ],
     [
       "8480017137654",
-      "Yerba Mate Compuesta Yerba Mate Compuesta Dia 500Gr Día 500 G Gr",
+      "Yerba Mate Compuesta Yerba Mate Compuesta Dia 500Gr Dia 500 G Gr",
       "320,32"
     ],
     [
       "8480017191342",
-      "Chocolate Mani Chocolate Con Mani Dia 80Gr Día 80 G Gr",
+      "Chocolate Mani Chocolate Con Mani Dia 80Gr Dia 80 G Gr",
       "175,76"
     ],
     [
       "8480017555434",
-      "Premezcla Pizza Harina Mezcla Para Pizza Dia 500Gr Día 500 G Gr",
+      "Premezcla Pizza Harina Mezcla Para Pizza Dia 500Gr Dia 500 G Gr",
       "214,92"
     ],
     [
       "8480017229717",
-      "Polenta Tradicional Polenta Tradicional Dia 1Kg Día 1KG Kg",
+      "Polenta Tradicional Polenta Tradicional Dia 1Kg Dia 1KG Kg",
       "182"
     ],
     [
       "8480017075161",
-      "Aceit Oliva Ext Virg Aceite De Oliva Extravirgen Envase Vidrio Dia 500 Ml Día 500 ML Ml",
+      "Aceit Oliva Ext Virg Aceite De Oliva Extravirgen Envase Vidrio Dia 500 Ml Dia 500 ML Ml",
       "808,35"
     ],
     [
       "8480017229700",
-      "Almidon De Maiz Almidon De Maiz Dia 500Gr Día 500GR Gr",
+      "Almidon De Maiz Almidon De Maiz Dia 500Gr Dia 500GR Gr",
       "223,94"
     ],
     [
       "8480017711366",
-      "Arroz L Fino 0000 Arroz L Fino 0000 Dia 500Gr Día 500 G Gr",
+      "Arroz L Fino 0000 Arroz L Fino 0000 Dia 500Gr Dia 500 G Gr",
       "73,41"
     ],
     [
       "8480017133724",
-      "Harina Pizza Y Panes Harina Para Pizza Y Panes Dia 1Kg Día 1 KG Kg",
+      "Harina Pizza Y Panes Harina Para Pizza Y Panes Dia 1Kg Dia 1 KG Kg",
       "202,8"
     ],
     [
       "8480017203809",
-      "Isotonica Blueberry Isotonica Blueberry Dia 750Ml Día 750ML Ml",
+      "Isotonica Blueberry Isotonica Blueberry Dia 750Ml Dia 750ML Ml",
       "125,84"
     ],
     [
       "8480017203816",
-      "Isotonica Manzana Isotonica Manzana Dia 750Ml Día 750ML Ml",
+      "Isotonica Manzana Isotonica Manzana Dia 750Ml Dia 750ML Ml",
       "125,84"
     ],
     [
       "8480017203830",
-      "Isotonica Fruts Trop Isotonica Fruts Trop Dia 750Ml Día 750ML Ml",
+      "Isotonica Fruts Trop Isotonica Fruts Trop Dia 750Ml Dia 750ML Ml",
       "119,6"
     ],
     [
       "8480017481238",
-      "Agua Mineral Sin Gas Agua Mineral Sin Gas Dia 2Lt Día 2L Lt",
+      "Agua Mineral Sin Gas Agua Mineral Sin Gas Dia 2Lt Dia 2L Lt",
       "96,72"
     ],
     [
       "8480017227850",
-      "Vino Tinto Clasico Vino Tinto Clasico Finca Finca Norte 750Ml Día 750ML Ml",
+      "Vino Tinto Clasico Vino Tinto Clasico Finca Finca Norte 750Ml Dia 750ML Ml",
       "498,16"
     ],
     [
       "8480017534675",
-      "Jugo Limon Jugo De Limon Dia 960Ml Día 960ML Ml",
+      "Jugo Limon Jugo De Limon Dia 960Ml Dia 960ML Ml",
       "384,8"
     ],
     [
       "8480017558275",
-      "Gaseosa Cola Light Gaseosa Light Cola Dia 2,25 L Día 2,25 L Lt",
+      "Gaseosa Cola Light Gaseosa Light Cola Dia 2,25 L Dia 2,25 L Lt",
       "178,88"
     ],
     [
       "8480017180018",
-      "Gaseosa Pomelo Light Gaseosa Pomelo Light Dia X 2,25Lt Día 2,25L Lt",
+      "Gaseosa Pomelo Light Gaseosa Pomelo Light Dia X 2,25Lt Dia 2,25L Lt",
       "178,88"
     ],
     [
       "8480017171641",
-      "Cola Zero Cola Zero Dia 2,25Lt Día 2,25 L Lt",
+      "Cola Zero Cola Zero Dia 2,25Lt Dia 2,25 L Lt",
       "178,88"
     ],
     [
       "8480017558336",
-      "Gaseosa Lima Light Gaseosa Light Lima Limon Dia 2,25 L Día 2,25 L Lt",
+      "Gaseosa Lima Light Gaseosa Light Lima Limon Dia 2,25 L Dia 2,25 L Lt",
       "178,88"
     ],
     [
       "4002631024161",
-      "Cerveza Lager Cerveza Lager St Wendeler 500Ml Día 500ML Ml",
+      "Cerveza Lager Cerveza Lager St Wendeler 500Ml Dia 500ML Ml",
       "166,4"
     ],
     [
       "8480017259950",
-      "Jugo En Polv Mandari Jugo En Polv Mandarina Dia 18Gr Día 18GR Gr",
+      "Jugo En Polv Mandari Jugo En Polv Mandarina Dia 18Gr Dia 18GR Gr",
       "33,28"
     ],
     [
       "8480017259929",
-      "Jugo En Polv Nar/Ban Jugo En Polv Nar/Ban Dia 18Gr Día 18GR Gr",
+      "Jugo En Polv Nar/Ban Jugo En Polv Nar/Ban Dia 18Gr Dia 18GR Gr",
       "33,28"
     ],
     [
       "8480017171719",
-      "Jugo Polv Pera Light Jugo Polvo Pera Light Dia 7,5Gr Día 7,5 G Gr",
+      "Jugo Polv Pera Light Jugo Polvo Pera Light Dia 7,5Gr Dia 7,5 G Gr",
       "33,28"
     ],
     [
       "8480017558374",
-      "Jugo Polv Pome Light Jugo Polvo Light Pomelo Rosado Dia 10Gr Día 10 G Gr",
+      "Jugo Polv Pome Light Jugo Polvo Light Pomelo Rosado Dia 10Gr Dia 10 G Gr",
       "33,28"
     ],
     [
       "8480017218063",
-      "Agua C/Gas Bajo Sodi Agua Con Gas Bajo Sodio Dia 2Lt Día 2LT Lt",
+      "Agua C/Gas Bajo Sodi Agua Con Gas Bajo Sodio Dia 2Lt Dia 2LT Lt",
       "97,76"
     ],
     [
       "8480017201089",
-      "Vino Cabernet Roble Vino Cabernet Roble Finca Norte 0,75Ml Día 750 ML Ml",
+      "Vino Cabernet Roble Vino Cabernet Roble Finca Norte 0,75Ml Dia 750 ML Ml",
       "758,16"
     ],
     [
       "8480017201096",
-      "Vino Malbec Roble Vino Malbec Roble Finca Norte 750Ml Día 750 ML Ml",
+      "Vino Malbec Roble Vino Malbec Roble Finca Norte 750Ml Dia 750 ML Ml",
       "758,16"
     ],
     [
       "8480017064127",
-      "Clerico Fizz Clerico Fizz Señorio De Ondas 710Ml Día 710 ML Ml",
+      "Clerico Fizz Clerico Fizz Señorio De Ondas 710Ml Dia 710 ML Ml",
       "518,96"
     ],
     [
       "8480017056887",
-      "Sidra Sidra Señorio De Ondas 710 Ml Día 710 ML Ml",
+      "Sidra Sidra Señorio De Ondas 710 Ml Dia 710 ML Ml",
       "362,96"
     ],
     [
       "8480017215550",
-      "Maquinas De Afeitar Maquinas De Afeitar Bonte 3Ud Día 3ud Uni",
+      "Maquinas De Afeitar Maquinas De Afeitar Bonte 3Ud Dia 3ud Uni",
       "202,8"
     ],
     [
       "8480017184948",
-      "Toall Fem Tanga Toalla Femenina Tanga Bonte X8Ud Día 8 U Uni",
+      "Toall Fem Tanga Toalla Femenina Tanga Bonte X8Ud Dia 8 U Uni",
       "209,04"
     ],
     [
       "8480017134431",
-      "Rep Toall Hum Bebe Toalla Humeda Bebe Babysmile Doy Pack 70Ud Día 70 U Uni",
+      "Rep Toall Hum Bebe Toalla Humeda Bebe Babysmile Doy Pack 70Ud Dia 70 U Uni",
       "436,8"
     ],
     [
       "8480017256256",
-      "Hisopos Hisopos Bonte 100Ud Día 100UD Uni",
+      "Hisopos Hisopos Bonte 100Ud Dia 100UD Uni",
       "309,92"
     ],
     [
       "8480017131607",
-      "Enjuag Buc Enjuague Bucal Bonté Everyday 250Ml Día 250 ML Ml",
+      "Enjuag Buc Enjuague Bucal Bonte Everyday 250Ml Dia 250 ML Ml",
       "449,28"
     ],
     [
       "8480017134318",
-      "Algodon Super Algodon Super Bonte 140Gr Día 140 GR Gr",
+      "Algodon Super Algodon Super Bonte 140Gr Dia 140 GR Gr",
       "364"
     ],
     [
       "8480017134820",
-      "Prot Diario Fem Protector Diario X 40Un Bonte Día 40 U Uni",
+      "Prot Diario Fem Protector Diario X 40Un Bonte Dia 40 U Uni",
       "372,32"
     ],
     [
       "8480017131614",
-      "Crema Dent Dob Fluor Crema Dentl Doble Fluor Bonte 180 Gr Día 180 G Gr",
+      "Crema Dent Dob Fluor Crema Dentl Doble Fluor Bonte 180 Gr Dia 180 G Gr",
       "405,6"
     ],
     [
       "8480017125965",
-      "Oleo Calcareo Oleo Calcareo Baby Smile 500Ml Día 500 ML Ml",
+      "Oleo Calcareo Oleo Calcareo Baby Smile 500Ml Dia 500 ML Ml",
       "619,84"
     ],
     [
       "8480017134165",
-      "Esponja De Baño Esponja De Baño Bonte 1Ud Día 1UD Uni",
+      "Esponja De Baño Esponja De Baño Bonte 1Ud Dia 1UD Uni",
       "150,8"
     ],
     [
       "8480017124739",
-      "Jabon Multicolor Jabon Multicolor 3X90Gr Bonte Everyday Día 3X90 G Gr",
+      "Jabon Multicolor Jabon Multicolor 3X90Gr Bonte Everyday Dia 3X90 G Gr",
       "279,76"
     ],
     [
       "8480017258915",
-      "Rejilla Rejilla Priste 1Ud Día 1UD Uni",
+      "Rejilla Rejilla Priste 1Ud Dia 1UD Uni",
       "223,6"
     ],
     [
       "8480017092090",
-      "Shamp Niños Shampoo Niños Junior Smile X 400Ml Día 400 ML Ml",
+      "Shamp Niños Shampoo Niños Junior Smile X 400Ml Dia 400 ML Ml",
       "473,2"
     ],
     [
       "8480017204387",
-      "Crema Corporal Crema Corporal Everyday Con Valvula Dosificadora 400Ml Día 400ML Ml",
+      "Crema Corporal Crema Corporal Everyday Con Valvula Dosificadora 400Ml Dia 400ML Ml",
       "632,32"
     ],
     [
       "8480017244864",
-      "Polvo Desodo Pies Polvo Desodo Pies Bonte 120Gr Día 120GR Gr",
+      "Polvo Desodo Pies Polvo Desodo Pies Bonte 120Gr Dia 120GR Gr",
       "276,64"
     ],
     [
       "8480017344601",
-      "Esponja Doble Cara Esponja Doble Cara Dia 1Ud Día 1 U Uni",
+      "Esponja Doble Cara Esponja Doble Cara Dia 1Ud Dia 1 U Uni",
       "194,48"
     ],
     [
       "7798160462501",
-      "Bolsa Reutilizable Bolsa Reutilizable Ecofactory 1Ud Día 1UD Uni",
+      "Bolsa Reutilizable Bolsa Reutilizable Ecofactory 1Ud Dia 1UD Uni",
       "54,08"
     ],
     [
       "8480017163516",
-      "Colorac Crema Coloracion En Crema 3.0 Castaño Oscuro Día 160 G Gr",
+      "Colorac Crema Coloracion En Crema 3.0 Castaño Oscuro Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163523",
-      "Colorac Crema 1.0 Coloracion En Crema Bonte 1.0 Negro Intenso 160Gr Día 160 G Gr",
+      "Colorac Crema 1.0 Coloracion En Crema Bonte 1.0 Negro Intenso 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163530",
-      "Colorac Crema 0.11 Coloracion En Crema Bonte 0,11 Negro Azulado 160Gr Día 160 G Gr",
+      "Colorac Crema 0.11 Coloracion En Crema Bonte 0,11 Negro Azulado 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163547",
-      "Colorac Crema 3.31 Coloracion En Crema Bonte 3,31 Chocolate 160Gr Día 160 G Gr",
+      "Colorac Crema 3.31 Coloracion En Crema Bonte 3,31 Chocolate 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163554",
-      "Colorac Crema 5.0 Coloracion En Crema Bonte 5,0 Castaño Claro 160Gr Día 160 G Gr",
+      "Colorac Crema 5.0 Coloracion En Crema Bonte 5,0 Castaño Claro 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163561",
-      "Colorac Crema 10.1 Coloracion En Crema Bonte 10,1 Platino 160Gr Día 160 G Gr",
+      "Colorac Crema 10.1 Coloracion En Crema Bonte 10,1 Platino 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163578",
-      "Colorac Crema 7.1 Coloracion En Crema Bonte 7.1 Rubio Ceniza 160Gr Día 160 G Gr",
+      "Colorac Crema 7.1 Coloracion En Crema Bonte 7.1 Rubio Ceniza 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163592",
-      "Colorac Crema 4.66 Coloracion En Crema Bonte 4.66 Borgoña 160Gr Día 160 G Gr",
+      "Colorac Crema 4.66 Coloracion En Crema Bonte 4.66 Borgoña 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163608",
-      "Colorac Crema 9.0 Coloracion En Crema Bonte 9.0 Rubio Extra Claro 160Gr Día 160 G Gr",
+      "Colorac Crema 9.0 Coloracion En Crema Bonte 9.0 Rubio Extra Claro 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017163615",
-      "Colorac Crema 7.0 Coloracion En Crema Bonte 7.0 Rubio 160Gr Día 160 G Gr",
+      "Colorac Crema 7.0 Coloracion En Crema Bonte 7.0 Rubio 160Gr Dia 160 G Gr",
       "591,76"
     ],
     [
       "8480017301406",
-      "Esponja Acero Esponja De Acero Inoxidable Grs Dia 2 X 14 Día 2 U Uni",
+      "Esponja Acero Esponja De Acero Inoxidable Grs Dia 2 X 14 Dia 2 U Uni",
       "158,08"
     ],
     [
       "8480017204479",
-      "Shamp Reparac Extr Shampoo Bonte Reparacion Extrema 10Ml Día 10 ML Ml",
+      "Shamp Reparac Extr Shampoo Bonte Reparacion Extrema 10Ml Dia 10 ML Ml",
       "31,2"
     ],
     [
       "8480017204462",
-      "Acond Repara Extrema Acondicionador Bonte Reparacion Extrema 10Ml Día 10 ML Ml",
+      "Acond Repara Extrema Acondicionador Bonte Reparacion Extrema 10Ml Dia 10 ML Ml",
       "31,2"
     ],
     [
       "8480017328953",
-      "Bolsa Residuo 45X60 Bolsas Residuos Dia 30 Uds Día 30 U Uni",
+      "Bolsa Residuo 45X60 Bolsas Residuos Dia 30 Uds Dia 30 U Uni",
       "414,95"
     ],
     [
       "8480017103338",
-      "Limp Piso Floral Limpiador Liquido Floral Dia 900Ml Día 900 ML Ml",
+      "Limp Piso Floral Limpiador Liquido Floral Dia 900Ml Dia 900 ML Ml",
       "154,96"
     ],
     [
       "8480017243522",
-      "Limp Piso Lavanda Limpiador Liquido Fragancia Lavanda 900 Ml Día 900 ML Ml",
+      "Limp Piso Lavanda Limpiador Liquido Fragancia Lavanda 900 Ml Dia 900 ML Ml",
       "154,96"
     ],
     [
       "8480017243515",
-      "Limp Piso Pino Limpiador Liquido Fragancia Pino 900Ml Día 900 ML Ml",
+      "Limp Piso Pino Limpiador Liquido Fragancia Pino 900Ml Dia 900 ML Ml",
       "154,96"
     ],
     [
       "8480017243539",
-      "Limp Piso Marina Limpiador Liquido Fragancia Marina 900 Ml Día 900 ML Ml",
+      "Limp Piso Marina Limpiador Liquido Fragancia Marina 900 Ml Dia 900 ML Ml",
       "154,96"
     ],
     [
       "8480017069986",
-      "Lavavaj Crem Glice Lavavajilla Cremoso Glicerina Dia 750Ml Día 750 ML Ml",
+      "Lavavaj Crem Glice Lavavajilla Cremoso Glicerina Dia 750Ml Dia 750 ML Ml",
       "169,52"
     ],
     [
       "8480017750419",
-      "Rep Suaviz Ropa Cla Suavizante Para Ropa Clasico Dia 900Ml Día 900 ML Ml",
+      "Rep Suaviz Ropa Cla Suavizante Para Ropa Clasico Dia 900Ml Dia 900 ML Ml",
       "227,76"
     ],
     [
       "8480017001931",
-      "Repelente En Crema Repelente En Crema Dia 200Ml Día 200 ML Ml",
+      "Repelente En Crema Repelente En Crema Dia 200Ml Dia 200 ML Ml",
       "310,96"
     ],
     [
       "8480017180056",
-      "Toall Oleo Calcareo Toallas Con Oleo Calcareo Babysmile 50Ud Día 50 U Uni",
+      "Toall Oleo Calcareo Toallas Con Oleo Calcareo Babysmile 50Ud Dia 50 U Uni",
       "410,8"
     ],
     [
       "8480017099716",
-      "Vela Comun Larga Vela Comun Dia 120Gr Día 120 G Gr",
+      "Vela Comun Larga Vela Comun Dia 120Gr Dia 120 G Gr",
       "228,79"
     ],
     [
       "8480017133915",
-      "Gel Para El Cabello Gel Para El Cabello Bonte 350Gr Día 350GR Gr",
+      "Gel Para El Cabello Gel Para El Cabello Bonte 350Gr Dia 350GR Gr",
       "424,32"
     ],
     [
       "8480017220554",
-      "Tampones Medio Tampones Medio Bonte 16Ud Día 16UD Uni",
+      "Tampones Medio Tampones Medio Bonte 16Ud Dia 16UD Uni",
       "462,8"
     ],
     [
       "8480017220547",
-      "Tampones Super Tampones Super Bonte 16Ud Día 16UD Uni",
+      "Tampones Super Tampones Super Bonte 16Ud Dia 16UD Uni",
       "462,8"
     ],
     [
       "8480017063229",
-      "Pap Hig Dob Hoja Papel Hig. Dh Dia 4X50 Mts Día 4x50 M Uni",
+      "Pap Hig Dob Hoja Papel Hig. Dh Dia 4X50 Mts Dia 4x50 M Uni",
       "820,56"
     ],
     [
       "8480017121691",
-      "Rollo Coc Rollo De Cocina Dia 3X100P Día 3x100 PAÑOS Uni",
+      "Rollo Coc Rollo De Cocina Dia 3X100P Dia 3x100 PAÑOS Uni",
       "665,6"
     ],
     [
       "7790828101555",
-      "Jabón de Tocador Kenia Glicerina 35x3x90 g",
+      "Jabon de Tocador Kenia Glicerina 35x3x90 g",
       "398,48"
     ],
     [
       "7790828105058",
-      "Jabón de Tocador Kenia Antibacterial 64x1x80 g",
+      "Jabon de Tocador Kenia Antibacterial 64x1x80 g",
       "77,7"
     ],
     [
       "7790828001848",
-      "Jabón de Tocador Clinerol Antibacterial 24x3x90g",
+      "Jabon de Tocador Clinerol Antibacterial 24x3x90g",
       "326,55"
     ],
     [
       "7790828002999",
-      "Jabón de Tocador Clinerol Antibacterial 72x1x90 g",
+      "Jabon de Tocador Clinerol Antibacterial 72x1x90 g",
       "115,16"
     ],
     [
       "7790828105126",
-      "Jabón de Tocador Duc Armonic 24x3x110 g",
+      "Jabon de Tocador Duc Armonic 24x3x110 g",
       "316,81"
     ],
     [
       "7790828105133",
-      "Jabón de Tocador Duc Citrus 24x3x110 g",
+      "Jabon de Tocador Duc Citrus 24x3x110 g",
       "316,81"
     ],
     [
@@ -8639,7 +8639,7 @@
     ],
     [
       "7790828104457",
-      "Lavavajillas Gigante Lavavjilla Limón 12x1x1250 cc Gigante 1250 ml",
+      "Lavavajillas Gigante Lavavjilla Limon 12x1x1250 cc Gigante 1250 ml",
       "370,53"
     ],
     [
@@ -8649,17 +8649,17 @@
     ],
     [
       "7500435169615",
-      "Máquina Para Afeitar Prestobarba Rosa Gillette x 3 un",
+      "Maquina Para Afeitar Prestobarba Rosa Gillette x 3 un",
       "307,32"
     ],
     [
       "7790064000230",
-      "Algodón PH1078 ALGODÓN ESTRELLA PREMIUM Estrella x",
+      "Algodon PH1078 ALGODoN ESTRELLA PREMIUM Estrella x",
       "305"
     ],
     [
       "7790064004573",
-      "Jabón de Tocador PH0457 JABON ESTRELLA COCO PURO Estrella x",
+      "Jabon de Tocador PH0457 JABON ESTRELLA COCO PURO Estrella x",
       "246"
     ],
     [
@@ -8714,7 +8714,7 @@
     ],
     [
       "7798314230147",
-      "Fideos Tallarín Verizzia x 500 gr",
+      "Fideos Tallarin Verizzia x 500 gr",
       "96,77"
     ],
     [
@@ -8754,22 +8754,22 @@
     ],
     [
       "7798115940542",
-      "Fideos Dedal Mediano Estrella del Paraná x 500 gr",
+      "Fideos Dedal Mediano Estrella del Parana x 500 gr",
       "103,22"
     ],
     [
       "7798115940313",
-      "Fideos Ave Maria Estrella del Paraná x 500 gr",
+      "Fideos Ave Maria Estrella del Parana x 500 gr",
       "103,22"
     ],
     [
       "7798115940627",
-      "Fideos Dedalito Estrella del Paraná x 500 gr",
+      "Fideos Dedalito Estrella del Parana x 500 gr",
       "103,22"
     ],
     [
       "7798115941228",
-      "Fideos Lingüini Estrella del Paraná x 500 gr",
+      "Fideos Lingüini Estrella del Parana x 500 gr",
       "103,22"
     ],
     [
@@ -8784,7 +8784,7 @@
     ],
     [
       "7790070342034",
-      "Fideos Tirabuzón Hierro Favorita x 500 gr",
+      "Fideos Tirabuzon Hierro Favorita x 500 gr",
       "99,53"
     ],
     [
@@ -8814,52 +8814,52 @@
     ],
     [
       "7794080001585",
-      "Fideos Spaghetti Don Bernabéu x 500 gr",
+      "Fideos Spaghetti Don Bernabeu x 500 gr",
       "92,16"
     ],
     [
       "7794080001578",
-      "Fideos Tallarín Don Bernabéu x 500 gr",
+      "Fideos Tallarin Don Bernabeu x 500 gr",
       "92,16"
     ],
     [
       "7794080001561",
-      "Fideos Tirabuzón Don Bernabéu x 500 gr",
+      "Fideos Tirabuzon Don Bernabeu x 500 gr",
       "92,16"
     ],
     [
       "7794080001554",
-      "Fideos Mostachol Don Bernabéu x 500 gr",
+      "Fideos Mostachol Don Bernabeu x 500 gr",
       "92,16"
     ],
     [
       "7792180004949",
-      "Fideos Tirabuzón San Agustín x 500 gr",
+      "Fideos Tirabuzon San Agustin x 500 gr",
       "94,92"
     ],
     [
       "7792180004987",
-      "Fideos Ñoquis San Agustín x 500 gr",
+      "Fideos Ñoquis San Agustin x 500 gr",
       "94,92"
     ],
     [
       "7792180004956",
-      "Fideos Mostachol San Agustín x 500 gr",
+      "Fideos Mostachol San Agustin x 500 gr",
       "94,92"
     ],
     [
       "7792180004963",
-      "Fideos Codito San Agustín x 500 gr",
+      "Fideos Codito San Agustin x 500 gr",
       "94,92"
     ],
     [
       "7798053339422",
-      "Fideos Maccarrón Ricatto x 500 gr",
+      "Fideos Maccarron Ricatto x 500 gr",
       "94,92"
     ],
     [
       "7798053339439",
-      "Fideos Tirabuzón Ricatto x 500 gr",
+      "Fideos Tirabuzon Ricatto x 500 gr",
       "94,92"
     ],
     [
@@ -8874,22 +8874,22 @@
     ],
     [
       "7797470000977",
-      "Fideos Tirabuzón Marolio x 500 gr",
+      "Fideos Tirabuzon Marolio x 500 gr",
       "96,77"
     ],
     [
       "7797470005446",
-      "Fideos Tallarín Marolio x 500 gr",
+      "Fideos Tallarin Marolio x 500 gr",
       "96,77"
     ],
     [
       "7798138554429",
-      "Fideos Tirabuzón Santa Isabel x 500 gr",
+      "Fideos Tirabuzon Santa Isabel x 500 gr",
       "94,92"
     ],
     [
       "7798138553309",
-      "Fideos Tallarín Santa Isabel x 500 gr",
+      "Fideos Tallarin Santa Isabel x 500 gr",
       "94,92"
     ],
     [
