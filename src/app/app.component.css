@@ -1,7 +1,8 @@
-.titulo{
-    /* display: flex;
-    justify-content: center; */
+.contenedor{
     background-color: rgb(55, 174, 214);
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
 }
 *{
     font-family: 'Times New Roman', Times, serif;
@@ -12,11 +13,34 @@
 }
 .principal{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 a{
     text-decoration: none;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+}
+footer{
+    display: flex;
+    align-items: baseline;
+    background-color: rgb(55, 174, 214);
+    position: absolute;
+    width: 100%;
+}
+.redes{
+    display: flex;
+    align-items: flex-end;
+    margin-right: 10px;
+}
+.logo{
+    width: 10%;
+}
+.contenedor-logo{
+    display: flex;
+}
+.titulo-principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
