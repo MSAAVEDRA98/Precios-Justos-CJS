@@ -1,13 +1,14 @@
 <div class="contenedor">
-    <h1>Seleccionar una provincia</h1>
+    <!-- <h1>Seleccionar una provincia</h1> -->
     <div>
-        <select name="" id="" [(ngModel)]="provinciaSeleccionada">
-            <option value="">Seleccione una provincia</option>
-            <option value="" *ngFor="let provincia of provincias" [ngValue]="provincia" >{{provincia.nombre}}</option>
-        </select>
-    </div>
-    <div>
-        <!-- <a routerLink="producto">Ir a productos de {{ provinciaSeleccionada.nombre }}</a> -->
-        <button class="bt btn-primary" routerLink="/producto/{{provinciaSeleccionada.url}}">Ir a productos de {{ provinciaSeleccionada.nombre }}</button>
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h1>Seleccionar una provincia</h1>
+            <select name="" id="" [(ngModel)]="provinciaSeleccionada">
+                <option value="">Seleccione una provincia</option>
+                <option value="" *ngFor="let provincia of provincias" [ngValue]="provincia" >{{provincia.nombre}}</option>
+            </select>
+            <button class="bt btn-primary" routerLink="/producto/{{provinciaSeleccionada.url}}">Ir a productos de {{ provinciaSeleccionada.nombre }}</button>
+        </div>
     </div>
 </div>
