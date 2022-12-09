@@ -1,0 +1,22 @@
+.titulo{
+    /* display: flex;
+    justify-content: center; */
+    background-color: rgb(55, 174, 214);
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.subtitulo{
+    display: flex;
+    justify-content: center;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}

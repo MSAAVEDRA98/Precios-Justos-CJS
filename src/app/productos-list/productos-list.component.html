@@ -1,20 +1,29 @@
-<h1 style="display: flex;justify-content:center;">Productos de {{ nombreProvincia }}</h1>
+<h1 style="display: flex;justify-content:center;">Productos de {{ provincia }}</h1>
 
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <label for="searchProd">Buscar un producto</label>
+            <label for="filtroTexto">Buscar un producto</label>
             <div>
                 <input
                 [(ngModel)]="nombreProducto"
                 (ngModelChange) = "filtroTexto(nombreProducto)"
-                type="text"
-                >
+                type="text">
             </div>
         </div>
         <div class="col-sm-6">
-            <label for="customRange1" class="form-label">Precio Maximo</label>
-            <input type="range" class="form-range" id="customRange1">
+            <!-- El label, el id y el ngmodel deben coincidir (?)-->
+            <label for="filtroPrecio" class="form-label">Precio Maximo $ {{ filtroPrecio }}</label>
+            <input
+            type = "range"
+            class = "form-range"
+            id = "filtroPrecio"
+            [(ngModel)] = "filtroPrecio"
+            (ngModelChange) = "precioFiltrado(filtroPrecio)"
+            [max] = "precioMaximo"
+            min = 0
+            >
+            <!-- precioMaximo es una constante por provincia-->
         </div>
     </div>
 </div>

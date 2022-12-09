@@ -14,36 +14,40 @@ export class ProductosListComponent implements OnInit {
   productos: Producto[] = [];
   productosFiltrados: Producto[] = [];
 
-  nombreProvincia:string = "";
+  provincia:string = "";
   nombreProducto:string = "";
-  precioMaximo:number = 1000;
+  filtroPrecio:number = 1000;
+  precioMaximo:number = 0;
 
 constructor(private productoService:ProductosServiceService, private actRouter:ActivatedRoute) {
-
-  this.nombreProvincia = this.actRouter.snapshot.params["nombreProvincia"];
-  console.log(this.actRouter);
-  console.log(this.nombreProvincia);
-  console.log(this.nombreProducto);
   
+  this.provincia = this.actRouter.snapshot.params["nombreProvincia"];
+  this.productoService.getProductos(this.provincia).subscribe((data:any)=>{
 
-  let provincia:string = this.nombreProvincia;
+  //Alamacena en el arreglo "productos" los datos de los productos que hay en la API de la provincia qeu se pasa por parametro en "provincia"
+  this.productos = data;
+  this.productosFiltrados = data;
 
-  this.productoService.getProductos(provincia).subscribe((data:any)=>{
-
-    //Alamacena en el arreglo "productos" los datos de los productos que hay en la API de la provincia qeu se pasa por parametro en "provincia"
-    this.productos = data;
-    this.productosFiltrados = data;
+  let precios = this.productos.map((producto: Producto) => producto.precio);
+  console.log(precios);
+  
+  this.precioMaximo = Math.max(...precios);
   });
 }
 
-filtroTexto(event:any){
-  // console.log(event);
-  
-  this.productosFiltrados = this.productos.filter((producto:Producto) =>{
+filtroTexto(event:any){this.productosFiltrados = this.productos.filter((producto:Producto) =>{
     return producto.nombre.toLowerCase().includes(event.toLowerCase())
     || (producto.ean + "").includes(event);
   });
 }
+
+  precioFiltrado(event:any){
+    // console.log(event);
+    this.productosFiltrados = this.productos.filter((producto: Producto) => {
+      return producto.precio <= event;
+    })
+  }
+
   ngOnInit(): void {  }
 
 }
